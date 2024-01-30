@@ -7,6 +7,16 @@ Este projeto foi desenvolvido durante o estágio para a agência experimental da
 
 O site desenvolvido visa proporcionar informações relevantes sobre o curso, como eventos, projetos, corpo docente e muito mais. Utilizamos a framework Hugo para garantir eficiência e facilidade na manutenção.
 
+
+Itens que foram necessários para o desenvolvimento do projeto:
+
+- [ O template ](https://github.com/HugoBlox/theme-research-group) 🌐
+- [Configurações do ambiente de desenvolvimento](https://www.youtube.com/watch?v=hjD9jTi_DQ4)💎
+- [Documentação do Hugo](https://gohugo.io/documentation/) 📚
+- [Entendimento de como o Hugo funciona e exemplos de código](https://kinsta.com/pt/blog/site-estatico-hugo/)📖
+- [Vídeo que ajuda a entender como criar pelo terminal](https://www.youtube.com/watch?v=RBhCQMbKFSo&t=5345s&pp=ygUOSFVHTyBGUkFNRVdPUks%3D)
+- [Ícones para embelezar](https://gist.github.com/rxaviers/7360908)💄
+
 ## Como Começar
 
 1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
@@ -14,6 +24,9 @@ O site desenvolvido visa proporcionar informações relevantes sobre o curso, co
 3. Execute o projeto localmente: `npm start`
 
 Fique à vontade para explorar o código-fonte e abrir [issues](link_para_nova_issue) para relatar problemas🐛  ou sugerir melhorias.🌱
+
+Pode dar uma olhada nesses slides que possuem links que podem ajudar : [apresentação do site}(https://www.canva.com/design/DAF7CgzrHO8/p2RZZEAVAD-iSVUpe5IoVQ/view?utm_content=DAF7CgzrHO8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 
 # Estrutura do Projeto
 
