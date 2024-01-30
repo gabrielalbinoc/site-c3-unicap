@@ -1,0 +1,35 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+#nome visalizado pelo usuario /cliente
+  - name: Tour
+  #os folders encontados dentro do folder content > authors,contact,event,post,projexts,publication,tor,index
+
+  #para ter uma nova pagina precisamos de um folder em content
+    url: tour
+    weight: 5
+  - name: Novidades
+    url: post
+    weight: 10
+  - name: Professores
+    url: people
+    weight: 15
+  - name: Eventos
+    url: event
+    weight: 20
+  - name: Publicações
+    url: publication
+    weight: 30
+  - name: Contato
+    url: contact
+    weight: 35
+#os projetos de extensao devem muito provavelmente ficar juntos a iniciação cientifica momentaneamente
+  - name : PIBIC
+    url: projects
+    weight: 40
+  - name : Extra
+    url: extra
+    weight: 55
