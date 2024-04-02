@@ -6,7 +6,7 @@ title: Augusto César Ferreira de Miranda Oliveira
 superuser: true
 
 # Role/position
-role: Professora de Inteligência Artificial.
+role: Professor de Análise e Projeto de Sistemas, Fundamentos da Programação, Engenharia de Software 1 , Programação Estruturada, Programação 3, Processos e Requisistos de Software.
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doutor em Biometria e Estatística Aplicada pela Universidade Federal Rural de Pernambuco (2022), mestre em Informática Aplicada pela Universidade Federal Rural de Pernambuco (2018) e licenciado em Computação pela Universidade de Pernambuco (2015). Atualmente, é Professor Associado II da Universidade Católica de Pernambuco (Unicap), lecionando disciplinas de programação e engenharia de software no curso de Ciência da Computação. Também é sócio-administrador e Diretor de Tecnologia da startup SISTEMAS BEM VIVENDO, onde atua como engenheiro de software, gerente de projetos e desenvolvedor full-stack. Tem experiência na área de Sistemas de Informação, atuando principalmente nos seguintes temas engenharia de software, sistemas colaborativos e sistemas para aquisição, processamento e análise de dados espaciais em saúde pública
+bio: Doutor em Biometria e Estatística Aplicada pela Universidade Federal Rural de Pernambuco (2022), mestre em Informática Aplicada pela Universidade Federal Rural de Pernambuco (2018) e licenciado em Computação pela Universidade de Pernambuco (2015). Atualmente, é Professor Associado II da Universidade Católica de Pernambuco (Unicap), lecionando disciplinas de Programação e Engenharia de Software no curso de Ciência da Computação. Também é Sócio-Administrador e Diretor de Tecnologia da startup SISTEMAS BEM VIVENDO, onde atua como Engenheiro de Software, Gerente de Projetos e Desenvolvedor Full-Stack. Tem experiência na área de Sistemas de Informação, atuando principalmente em temas como Engenharia de Software, Sistemas Colaborativos e Sistemas para Aquisição, Processamento e Análise de Dados Espaciais em Saúde Pública.
 
 interests :
   - Java
@@ -22,7 +22,7 @@ interests :
   - React Native
   - Node.js
   - Angular
-  - Engenharia de software
+  - Engenharia de Software
   
 
 education:
@@ -64,5 +64,4 @@ user_groups:
   - Professores
 ---
 
-O professor augusto é responsavel pelas cadeiras 
-analise de projeto de sistema,fundamentos da programação,engenharia de software 1 ,programaçao estruturada,programação 3, processos e requisistos de software.
+O professor Augusto é responsavel pelas cadeiras de Análise e Projeto de Sistemas, Fundamentos da Programação, Engenharia de Software 1 , Programação Estruturada, Programação 3, Processos e Requisistos de Software.

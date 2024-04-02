@@ -6,7 +6,7 @@ title: Andrea Maria Nogueira Cavalcanti Ribeiro
 superuser: true
 
 # Role/position
-role: Professora de Inteligência Artificial.
+role: Professora de Introdução à Ciência da Computação, Computação, Sociedade e Sustentabilidade, Fundamentos de Hardware.
 
 # Organizations/Affiliations
 organizations:
@@ -14,16 +14,16 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: É professora tanto na UPE quanto na UNICAP, é coordenadora de estágio do curso de Ciência da Computação  da UNICAP e pesquisadora dos grupos de pesquisa dotLAB Brazil da UPE, do Grupo de  Pesquisa em Redes e Telecomunicações  da UFPE e do Grupo de Pesquisa de Computação Aplicada da UNICAP. Desenvolveu projeto de iniciação científica,o qual foi premiada no XVIII Congresso de Iniciação Científica da Universidade de Pernambuco (CONIC) em primeiro lugar na área de Ciências Exatas e da Terra,Atuou como monitora na disciplina de Eletrônica III, no último período do curso.Participação em programa de intercâmbio estudantil 2011/2012, convênio entre a UFPE, Brasil e a Universidade TU-Berlin,Alemanha.
+bio: Professora na UPE e na UNICAP, coordenadora de estágio do curso de Ciência da Computação da UNICAP e pesquisadora dos grupos de pesquisa dotLAB Brazil da UPE, do Grupo de Pesquisa em Redes e Telecomunicações da UFPE e do Grupo de Pesquisa de Computação Aplicada da UNICAP. Desenvolveu projeto de iniciação científica, pelo qual foi premiada no XVIII Congresso de Iniciação Científica da Universidade de Pernambuco (CONIC) em 1º lugar na área de Ciências Exatas e da Terra. Atuou como monitora na disciplina de Eletrônica III no último período do curso. Participou de programa de intercâmbio estudantil 2011/2012, convênio entre a UFPE, Brasil, e a Universidade TU-Berlin, Alemanha.
 
 interests :
   - Inteligência Artificial
-  - Internet das Coisas(IOT)
+  - Internet das Coisas (IOT)
   - Cidades Inteligêntes
-  - Eficiência energética,
-  - Indústria 4.0,
-  - e-health
-  - STEM (science, technology, engineering and mathematics)
+  - Eficiência Energética
+  - Indústria 4.0
+  - E-Health
+  - STEM(science, technology, engineering and mathematics)
 
 education:
   courses:
@@ -66,4 +66,4 @@ user_groups:
   - Professores
 ---
 
-  A professora andrea é coordenadora da cadeira do estagio e  tambem é professora das seguintes cadeiras : Íntrodução a Ciência da computação, Computação,sociedade e sustentabilidade ,Fundamentos de hardware
+  A professora Andrea é coordenadora de estágio e também professora das seguintes disciplinas: Introdução à Ciência da Computação, Computação, Sociedade e Sustentabilidade, Fundamentos de Hardware.

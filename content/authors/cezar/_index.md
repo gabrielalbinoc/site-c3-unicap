@@ -6,7 +6,7 @@ title: Cezar Augusto Cerqueira
 superuser: true
 
 # Role/position
-role: Professora de Inteligência Artificial.
+role: Professor de de Probabilidade e Estatistica.
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: possui graduação em Estatística pela Universidade Federal de Pernambuco (1980), mestrado em Estatística pela Universidade Federal de Pernambuco (1998) e doutorado em Demografia pela Universidade Federal de Minas Gerais (2004). Atualmente é professor adjunto da Universidade Católica de Pernambuco, membro de projeto de pesquisa da Universidade Federal do Rio Grande do Norte e professor adjunto da Universidade de Pernambuco. Tem experiência na área de Demografia, com ênfase em Mortalidade, atuando principalmente nos seguintes temas demografia, demografia da educação, educação, mortalidade e demografia da educação.
+bio: Possui graduação em Estatística pela Universidade Federal de Pernambuco (1980), mestrado em Estatística pela Universidade Federal de Pernambuco (1998) e doutorado em Demografia pela Universidade Federal de Minas Gerais (2004). Atualmente é professor adjunto da Universidade Católica de Pernambuco, membro de projeto de pesquisa da Universidade Federal do Rio Grande do Norte e professor adjunto da Universidade de Pernambuco. Tem experiência na área de Demografia, com ênfase em Mortalidade, atuando principalmente nos seguintes temas Demografia, Educação, Demografia da Educação e Mortalidade.
 
 interests :
   - Demografia
@@ -63,4 +63,4 @@ user_groups:
   - Professores
 ---
 
-O professor cezar de probabilidade e estatistica.
+O professor Cezar é responsável pela cadeira de Probabilidade e Estatistica.

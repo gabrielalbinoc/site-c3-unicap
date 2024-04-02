@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor de Inteligência Artificial,Banco de Dados ,Engenharia de Software.
+role: Professor de Fundamentos da Programação, Ciência dos Dados, Programação Estruturada, Estrutura de Dados 1 e Engenharia de Software 2.
 
 # Organizations/Affiliations
 organizations:
@@ -22,15 +22,15 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Experiência de seis anos na indústria; experiência internacional na forma de Pós-Doutorado na University of California, Davis, 2018; experiência na coordenação de projetos com financiamentos internacionais; experiência como revisor de periódicos internacionais; agraciado com honraria internacional.
+bio: Experiência de seis anos na indústria. Experiência internacional na forma de Pós-Doutorado na University of California, Davis, em 2018. Experiência na coordenação de projetos com financiamentos internacionais. Experiência como revisor de periódicos internacionais. Agraciado com honraria internacional.
 
 interests:
   - Inteligência Artificial
-  - Inteligência computacional
-  - Ciência dos dados 
-  - Ciência das redes
-  - Aplicações em medicina 
-  - Saúde pública.
+  - Inteligência Computacional
+  - Ciência dos Dados 
+  - Ciência das Redes
+  - Aplicações em Medicina 
+  - Saúde Pública
 
 education:
   courses:
@@ -73,5 +73,4 @@ user_groups:
   - Professores
 ---
  
-  O professor Diego  reviveu o projeto de competição de programação e um dos grupos da Unicap vão participar da ACM International Collegiate Programming Contest é uma competição muldial.
-  ele tambem é professor das seguintes cadeiras  Fundamentos da Programação,Ciência dos dados,programação estruturada,estrutura de dados 1 e engenharia de software 2 
+  O professor Diego reviveu o projeto de competição de programação e um dos grupos da Unicap vão participar da ACM International Collegiate Programming Contest, uma competição muldial. Tambem é professor das cadeiras de Fundamentos da Programação, Ciência dos Dados, Programação Estruturada, Estrutura de Dados 1 e Engenharia de Software 2. 
