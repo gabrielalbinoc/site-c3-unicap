@@ -8,18 +8,18 @@ sections:
   - block: hero
     content:
       title: |
-        Ciencia da Computação
+        Ciência da Computação
         UNICAP
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **C3** é a nossa sigla de ciencia da computaçao da catolica.
+        The **C3** é a nossa sigla de Ciência da Computaçao da católica.
   
   - block: collection
     content:
-      title: Latest News
+      title: Ultimas Notícias
       subtitle:
       text:
       count: 5

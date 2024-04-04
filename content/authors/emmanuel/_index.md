@@ -6,7 +6,7 @@ title: Emmanuel Barreto de Carvalho
 superuser: true
 
 # Role/position
-role: Professora de Inteligência Artificial.
+role: Professor de Informatica e Sociedade, Tópicos Avançados em Computaçao 1 , Banco de Dados 1 , Programação Paralela e Distribuida.
 
 # Organizations/Affiliations
 organizations:
@@ -18,8 +18,8 @@ bio: UNICAP (Universidade Católica de Pernambuco), Professor do curso de ciênc
 
 interests :
   - Java
-  - Flash portatil
-  - Gerenciamente de projeto
+  - Flash Portatil
+  - Gerenciamente de Projeto
   - Testes
   
 education:
@@ -65,5 +65,5 @@ user_groups:
   - Professores
 ---
 
-O professor emmanuel é responsavel por informatica e sociedade,topicos avançados em computaçao 1 ,banco de dados 1 ,programaçao paralela e distribuida.
+O professor Emmanuel é responsável pelas cadeiras de Informatica e Sociedade, Tópicos Avançados em Computaçao 1 , Banco de Dados 1 , Programação Paralela e Distribuida.
 
