@@ -19,7 +19,7 @@ sections:
   
   - block: collection
     content:
-      title: Ultimas Notícias
+      title: Últimas Notícias
       subtitle:
       text:
       count: 5
