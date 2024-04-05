@@ -9,7 +9,7 @@ baseURL: https://teste-unicap-site-33664455.netlify.app/ #'https://cienciacomput
 ############################
 ## LANGUAGE
 ############################
-defaultContentLanguage: pt
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
