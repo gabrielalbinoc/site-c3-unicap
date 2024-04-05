@@ -20,8 +20,8 @@ sections:
         country: Brasil
         country_code: BR
       coordinates:
-        latitude: '-8.05774'
-        longitude: '-34.88439'
+        latitude: '-8.054056'
+        longitude: '-34.887278'
       directions: Acesse pela entrada do bloco G, suba ao 1º andar e encontre o laboratorio do Loyola.
       office_hours:
         - 2ª a 6ª – 8h às 21h
