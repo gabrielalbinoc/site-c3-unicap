@@ -27,7 +27,7 @@ interests :
   
 education:
   courses:
-    - course: Doutorado em andamento em  Ciência da Computação
+    - course: Doutorado em andamento em Ciência da Computação
       institution: Universidade Federal de Pernambuco
       year: 2022
     - course: Mestrado em Ciência da Computação
@@ -68,4 +68,4 @@ user_groups:
   - Pesquisadores
 ---
 
-O professor Assis é responsavel pelas cadeiras de Sistemas digiatis, Compiladores, Redes de computadores 1 , Computação e Sociedade e Sustentabilidade.
+O professor Assis é responsavel pelas cadeiras de Sistemas Digiatis, Compiladores, Redes de Computadores 1 , Computação e Sociedade e Sustentabilidade.

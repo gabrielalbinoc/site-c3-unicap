@@ -6,7 +6,7 @@ title: Gibson Belarmino Nunes Barbosa
 superuser: true
 
 # Role/position
-role: Professor de Inteligência Artificial.
+role: Professor de Métodos Numéricos, Fundamentos da Programação, Análise de Algoritmos, Elementos da Diferenciação Computacional, Computação Sociedade e Sustentabilidade, Programação Estruturada.
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Formado em Engenharia da Computação (2014), possui mestrado (2017) e Doutorado (2022) em Ciência da Computação pela UFPE (Universidade Federal de Pernambuco). Atualmente, Gibson desenvolve pesquisa com colaboração humano-robô, Indústria 4.0 e Internet das Coisas, considerando questões de segurança nessa relação. Ele possui experiência em inteligência computacional, análise de agrupamento e prototipagem de placas de circuito impresso. Também, já trabalhou com FPGA, testes e verificação de sistemas RTL
+bio: Formado em Engenharia da Computação (2014), possui mestrado (2017) e doutorado (2022) em Ciência da Computação pela UFPE (Universidade Federal de Pernambuco). Atualmente, Gibson desenvolve pesquisa com colaboração Humano-Robô, Indústria 4.0 e Internet das Coisas, considerando questões de segurança nessa relação. Ele possui experiência em Inteligência Computacional, Análise de Agrupamento e Prototipagem de Placas de Circuito Impresso. Também, já trabalhou com FPGA, Testes e Verificação de Sistemas RTL.
 
 interests:
   - Engenharia de Software
@@ -58,4 +58,5 @@ user_groups:
   - Pesquisadores
   - Professores
 ---
-  O professor Gibson é responsavel pelas seguintes cadeiras : metodos numericos,fundamentos da programação,analise de algoritmos,elementos da diferenciação computacional,computação sociedade e sustentabilidade,programação estruturada
+  
+  O professor Gibson é responsavel pelas cadeiras de Métodos Numéricos, Fundamentos da Programação, Análise de Algoritmos, Elementos da Diferenciação Computacional, Computação Sociedade e Sustentabilidade, Programação Estruturada.

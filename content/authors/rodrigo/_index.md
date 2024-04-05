@@ -6,7 +6,7 @@ title: Rodrigo de Paula Monteiro
 superuser: true
 
 # Role/position
-role: Professor de Inteligência Artificial
+role: Professor de Tópicos Avançados em Inteligência artificial 1, Introdução a Ciencia da Computação,Inteligência Artificial, Trabalho de Conclusão do Curso 1, Projeto de Desenvolvimento, Computação, Sociedade e Sustentabilidade.
 
 # Organizations/Affiliations
 organizations:
@@ -14,17 +14,17 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Experiência no desenvolvimento de produtos e processos na indústria; prêmio de Melhor Artigo do WRE (Workshop of Robotics in Education) 2020, IEEE Robotics & Automation Society; experiência na formação de recursos humanos na Graduação
+bio: Pernambucano da cidade do Recife, Rodrigo de Paula Monteiro é graduado em Engenharia Mecânica Mecatrônica pela Universidade de Pernambuco (2014) e em Engenharia Automotiva, na modalidade Graduação de Segundo Ciclo de acordo com o Processo de Bolonha, pelo Istituto Politecnico di Torino (2014). Mestre pelo Programa de Pós-graduação em Engenharia de Sistemas (PPGES) da Universidade de Pernambuco (2017). Doutor pelo Programa de Pós-graduação em Engenharia Elétrica (PPGEE) da Universidade Federal de Pernambuco (2021). Suas atividades de pesquisa estão majoritariamente relacionadas à Detecção de Anomalias em Séries Temporais Multivariadas, no contexto da Indústria 4.0. É professor assistente na graduação em Ciência da Computação da Universidade Católica de Pernambuco (UNICAP) desde 2021, onde também faz parte do Núcleo Docente Estruturante (NDE) e coordena projetos de extensão. Também é professor adjunto na graduação em Automação e Controle na Universidade de Pernambuco (UPE) desde 2024, onde também é professor permanente do Programa de Pós-Graduação em Engenharia de Sistemas (PPGES) desde 2023. Possui 1 coorientação concluída de mestrado, além de 14 orientações e 2 coorientações concluídas de Trabalho de Conclusão de Curso. Tem experiência em Projetos de PD (Pesquisa e Desenvolvimento) e PDI (Pesquisa, Desenvolvimento e Inovação), com participação em projetos financiados pela Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE) e participação de instituições de pesquisa e empresas do arranjo produtivo local. Participou da organização da 9ª IEEE Latin American Conference on Computational Intelligence 2023 (LA-CCI 2023) como um dos General Chairs.
 
 interests:
   - Inteligência Artificial
-  - Detecção de anomalias
-  - Deep leaning(DL)
+  - Detecção de Anomalias
+  - Deep Learning (DL)
   - Inteligencia artificial (IA)
   - Industria 4.0
-  - Machine Learning(ML)
-  - Redes Neurais(NN)
-  - Redes Neurais Convolucionais(CNN)
+  - Machine Learning (ML)
+  - Redes Neurais
+  - Redes Neurais Convolucionais (CNN)
 
 education:
   courses:
@@ -67,5 +67,4 @@ user_groups:
   - Pesquisadores
 ---
 
-Professor Rodrigo é professor das seguintes cadeiras : Topicos avançados em Inteligência artificial 1,introduçao a ciencia da computaçao,Inteligência artificial,trabalho de conclusao do curso 1, projeto de desenvolvimento,
-computaçao,sociedade e sustentabilidade
+Professor Rodrigo é professor das cadeiras de Tópicos Avançados em Inteligência artificial 1, Introdução a Ciencia da Computação,Inteligência Artificial, Trabalho de Conclusão do Curso 1, Projeto de Desenvolvimento, Computação, Sociedade e Sustentabilidade.

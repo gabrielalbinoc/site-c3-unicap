@@ -6,7 +6,7 @@ title: Pedro Henrique Meira de Araújo
 superuser: true
 
 # Role/position
-role: Professor de Sistemas Distribuidos e Redes de Computadores
+role: Professor de Sistemas Digitais, Lógica de Matemática Aplicada a Computação, Introdução a Ciência da Computação, Redes de Computadores 2, Tópicos Avanaçados de Computação 2, Banco de Dados 2.
 
 # Organizations/Affiliations
 organizations:
@@ -14,13 +14,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Possui graduação em Engenharia Elétrica - Eletrônica (2014) pela Universidade de Pernambuco (UPE). Mestre em Engenharia de Sistemas (2017) pela UPE. Exerceu a função de estagiário nível superior em empresa de grande porte no ramo de telecomunicações, no setor de implantação de projetos de transmissão. Atualmente é docente do curso de Ciência da Computação da Universidade Católica de Pernambuco - UNICAP. Aluno de doutorado em Engenharia de Computação na Universidade de Pernambuco. Exerceu o cargo de professor contratado no Curso Básico de Engenharia da Escola Politécnica da Universidade de Pernambuco (UPE).Atua como pesquisador nas áreas modelagem estatística, inteligência artificial, previsões de séries temporais, redes neurais artificiais e energias renováveis.
+bio: Possui graduação em Engenharia Elétrica - Eletrônica (2014) pela Universidade de Pernambuco (UPE). Mestre em Engenharia de Sistemas (2017) pela UPE. Exerceu a função de estagiário nível superior em empresa de grande porte no ramo de telecomunicações, no setor de implantação de projetos de transmissão. Atualmente é docente do curso de Ciência da Computação da Universidade Católica de Pernambuco - UNICAP. Aluno de doutorado em Engenharia de Computação na Universidade de Pernambuco. Exerceu o cargo de professor contratado no Curso Básico de Engenharia da Escola Politécnica da Universidade de Pernambuco (UPE). Atua como pesquisador nas áreas de Modelagem Estatística, Inteligência Artificial, Previsões de Séries Temporais, Redes Neurais Artificiais e Energias Renováveis.
 
 interests:
-  - Inteligencia artificial
-  - Modelagem estatistica
+  - Inteligencia Artificial
+  - Modelagem Estatística
   - Redes Neurais Artificiais
-  - Series temporais
+  - Series Temporais
 
 education:
   courses:
@@ -60,4 +60,4 @@ user_groups:
   - Professores
   - Pesquisadores
 ---
-O professor pedro é responsavel pelas cadeiras de sistemas digitais,logica de matematica aplicada a computaçao,introduçao a ciencia da computação,redes de computados 2,topicos avanaçados de computaçao 2,banco de dados 2
+O professor Pedro é responsavel pelas cadeiras de Sistemas Digitais, Lógica de Matemática Aplicada a Computação, Introdução a Ciência da Computação, Redes de Computadores 2, Tópicos Avanaçados de Computação 2, Banco de Dados 2.

@@ -14,14 +14,14 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Graduado em Engenharia de Computação pela Universidade de Pernambuco (UPE), usando C, Java e Phyton como as principais linguagens de programação do curso, com foco em Inteligência Artificial, mais especificamente Redes Neurais Artificiais (RNA). Mestrado concluído na Universidade de Pernambuco (UPE), pelo Programa de Pós-Graduação em Engenharia de Computação (PPGEC), com foco em Inteligência Computacional e Reconhecimento de padrões, priorizando aplicações de RNAs para soluções de problemas de regressão usando o matlab, R e o Keras como Ferramentas. Atualmente doutorando em Inteligência artificial com foco em seleção dinâmica para ensembles de regressores
+bio: Graduado em Engenharia de Computação pela Universidade de Pernambuco (UPE), utilizando C, Java e Python como as principais linguagens de programação do curso, com foco em Inteligência Artificial, mais especificamente Redes Neurais Artificiais (RNA). Mestrado concluído na Universidade de Pernambuco (UPE), pelo Programa de Pós-Graduação em Engenharia de Computação (PPGEC), com ênfase em Inteligência Computacional e Reconhecimento de Padrões, priorizando aplicações de RNAs para soluções de problemas de regressão utilizando Matlab, R e o Keras como ferramentas. Atualmente doutorando em Inteligência Artificial com foco em Seleção dinâmica para Ensembles de Regressores.
 
 interests:
-  - Inteligencia Computacional
-  - Redes Neurais Artificais (NNA)
-  - Redes Neurais (NN)
-  - Reconhecimento de padores
-  - Inteligência artificial
+  - Inteligência Computacional
+  - Redes Neurais Artificais (RNA)
+  - Redes Neurais
+  - Reconhecimento de Padrões
+  - Inteligência Artificial
 
 education:
   courses:
@@ -57,4 +57,6 @@ user_groups:
   - Professores
   - Pesquisadores
 ---
- Professor gabriel é responsavel pelas cadeiras de banco de dados,conceitos de sistemas operacionais,enpreendorismo e inovação ,programação front-end ,projetos integrador 5 e gestao de projetos 
+ 
+ Professor gabriel é responsavel pelas cadeiras de banco de dados,conceitos de sistemas operacionais,enpreendorismo e inovação ,programação front-end ,projetos integrador 5 e gestao de projetos
+ 

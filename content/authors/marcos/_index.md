@@ -5,7 +5,7 @@ title: Marcos José Canejo Estevão de Azevedo
 # Is this the primary user of the site?
 superuser: true
 # Role/position
-role: Professor de Programação e Banco de Dados.
+role: Professor de Sistemas Operacionais, Linguagens Formais, Grafos, Estrutura de Dados 1 e 2, Computação Gráfica.
 
 # Organizations/Affiliations
 organizations:
@@ -13,12 +13,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Obteve seu doutorado em Ciência da Computação pela Universidade Federal de Pernambuco (UFPE) em 2022, seu mestrado em Engenharia de Sistemas pela Universidade de Pernambuco em 2016 e seu bacharelado em Ciência da Computação pela Universidade Católica de Pernambuco em 2013. Suas áreas de interesse de pesquisa incluem processamento digital de imagens, inteligência computacional e visão computacional.
+bio: Obteve seu doutorado em Ciência da Computação pela Universidade Federal de Pernambuco (UFPE) em 2022, seu mestrado em Engenharia de Sistemas pela Universidade de Pernambuco em 2016 e seu bacharelado em Ciência da Computação pela Universidade Católica de Pernambuco em 2013. Suas áreas de interesse de pesquisa incluem Processamento Digital de Imagens, Inteligência Computacional e Visão Computacional.
 
 interests:
-  - Visão computacional
+  - Visão Computacional
   - Inteligencia Computacional
-  - Processamento Digital de imagem
+  - Processamento Digital de Imagem
   
 education:
   courses:
@@ -29,8 +29,8 @@ education:
     - course: Mestrado em engenharia de sistemas
       institution: Universidade Federal de Pernambuco
       year: 2016
-    - course: Graduação em   Ciências da Computação
-      institution:  Universidade Católica de pernambuco
+    - course: Graduação em Ciências da Computação
+      institution: Universidade Católica de Pernambuco
       year: 2013
 
 # Social/Academic Networking
@@ -57,4 +57,4 @@ user_groups:
   - Professores
 ---
 
-o professor marcos é responsavel por sistemas operacionais,linguagens formais,grafos,estrutura de dados 1 e 2, computaçao grafica.
+O professor Marcos é responsavel por Sistemas Operacionais, Linguagens Formais, Grafos, Estrutura de Dados 1 e 2, Computação Gráfica.

@@ -6,7 +6,7 @@ title: Gabriel Fernandes de Almeida
 superuser: true
 
 # Role/position
-role: Professor de Realidade virtual.
+role: Professor de Banco de dados, Conceitos de Sistemas Operacionais, Empreendedorismo e Inovação Programação Front-End, Projetos Integrador 5 e Gestao de Projetos.
 
 # Organizations/Affiliations
 organizations:
@@ -14,10 +14,10 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Possui graduação (2006) e mestrado (2009) em Ciência da Computação pelo Centro de Informática da Universidade Federal de Pernambuco. Tem experiência na área de Ciência da Computação, com ênfase em Redes de Computadores e Realidade Virtual. Atuou como Professor de Graduação e Pós Graduação no Centro Universitário Estácio do Recife entre 2014 e 2019 e de Graduação na Faculdade Uninassau Olinda em 2019 e 2020. É Analista de TIC no Tribunal de Justiça de Pernambuco desde 2009.
+bio: Possui graduação (2006) e mestrado (2009) em Ciência da Computação pelo Centro de Informática da Universidade Federal de Pernambuco. Tem experiência na área de Ciência da Computação, com ênfase em Redes de Computadores e Realidade Virtual. Atuou como Professor de Graduação e Pós-Graduação no Centro Universitário Estácio do Recife entre 2014 e 2019 e de Graduação na Faculdade Uninassau Olinda em 2019 e 2020. É Analista de TIC no Tribunal de Justiça de Pernambuco desde 2009.
 
 interests:
-  - Realidade virtual
+  - Realidade Virtual
   - Redes de Computadores
   
 education:
@@ -55,4 +55,5 @@ user_groups:
   - Professores
   - Pesquisadores
 ---
- Professor gabriel é responsavel pelas cadeiras de banco de dados,conceitos de sistemas operacionais,enpreendorismo e inovação ,programação front-end ,projetos integrador 5 e gestao de projetos 
+ 
+ Professor gabriel é responsavel pelas cadeiras de Banco de Dados, Conceitos de Sistemas Operacionais, Empreendedorismo e Inovação Programação Front-End, Projetos Integrador 5 e Gestao de Projetos.

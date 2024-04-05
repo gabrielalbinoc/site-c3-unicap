@@ -14,14 +14,14 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: O Professor Robson Lins é Doutor em Ciência da Computação pela Universidade Federal de Pernambuco. Suas atividades de pesquisa concentram-se em visão computacional, compressão de vídeo, computação gráfica e realidade virtual. É Professor Adjunto da Universidade Católica de Pernambuco (UNICAP), onde atua desde 1998 na Graduação de Ciência da Computação e desde 2020 na Coordenação do Curso Superior de Tecnologia em Sistemas para Internet em parceria com o Porto Digital. Tem atuado no desenvolvimento de técnicas de redes neurais deep learning aplicadas ao reconhecimento de objetos em imagem e vídeo. É membro do Núcleo Docente Estruturante e de Colegiado do curso de Ciência da Computação da UNICAP. Concluiu a orientação de 22 trabalhos de conclusão de cursos de graduação e cerca de 36 trabalhos de iniciação científica. Tem experiência em Projeto de desenvolvimento tecnológico financiado pela Financiadora de Estudos e Projetos (FINEP). É um dos autores do livro Compressão de Vídeo técnicas para estimação de movimento (2015), pela Novas Edições Acadêmicas. Atuou na coordenação de Projeto de Extensão com o uso do robô NAO para o ensino de linguagem de programação em parceria com a Prefeitura da Cidade do Recife.
+bio: Ele é Doutor em Ciência da Computação pela Universidade Federal de Pernambuco. Suas atividades de pesquisa concentram-se em Visão Computacional, Compressão de Vídeo, Computação Gráfica e Realidade Virtual. É Professor Adjunto da Universidade Católica de Pernambuco (UNICAP), onde atua desde 1998 na Graduação de Ciência da Computação e desde 2020 na Coordenação do Curso Superior de Tecnologia em Sistemas para Internet, em parceria com o Porto Digital. Tem atuado no desenvolvimento de Técnicas de Redes Neurais Deep Learning aplicadas ao reconhecimento de objetos em imagens e vídeos. É membro do Núcleo Docente Estruturante e do Colegiado do curso de Ciência da Computação da UNICAP. Concluiu a orientação de 22 trabalhos de conclusão de cursos de graduação e cerca de 36 trabalhos de iniciação científica. Tem experiência em projeto de Desenvolvimento Tecnológico financiado pela Financiadora de Estudos e Projetos (FINEP). É um dos autores do livro "Compressão de Vídeo - Técnicas para Estimação de Movimento" (2015), pela Novas Edições Acadêmicas. Atuou na coordenação de projeto de extensão com o uso do Robô NAO para o ensino de linguagem de programação, em parceria com a Prefeitura da Cidade do Recife.
 
 interests:
-  - Deep Learning(DL)
-  - Redes Neurais(NN)
+  - Deep Learning (DL)
+  - Redes Neurais
   - Visão Computacional
-  - Compreessão de video
-  - Realidade virtual
+  - Compreessão de Vídeo
+  - Realidade Virtual
 
 education:
   courses:
@@ -61,4 +61,4 @@ user_groups:
   - Professores
   - Pesquisadores
 ---
-O professor rafael é responsavel pelas as seguintes cadeiras:Fundamentos da computação,Segurança e auditoria de sistemas,Programação para web,Inteligência artificial aplicada,Programação para dispositivos moveis,projeto integrador 4, governança de TI, Engenharia de Software
+O professor rafael é responsavel pelas cadeiras de Fundamentos da Computação,Segurança e auditoria de sistemas,Programação para web,Inteligência artificial aplicada,Programação para dispositivos moveis,projeto integrador 4, governança de TI, Engenharia de Software

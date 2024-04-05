@@ -8,7 +8,7 @@ title: Marcio augusto Silva Bueno
 superuser: true
 
 # Role/position
-role: Professor de Programação e Banco de Dados.
+role: Professor de Programação Web e Mobile, Aplicações Orientadas a Serviço, Banco de Dados 2, Programação para Dispositivos Móveis e Engenhaira de Software.
 
 # Organizations/Affiliations
 organizations:
@@ -16,23 +16,23 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Possui graduação (1996) e mestrado (2005) em Ciência da Computação pela Universidade Federal de Pernambuco. Atualmente é professor e coordenador do curso de Ciência da Computação da Universidade Católica de Pernambuco. Tem experiência em liderança de projetos de P&D na área de Ciência da Computação, com ênfase em Visão Computacional, atuando principalmente nos seguintes temas reconstrução 3D e realidade aumentada.
+bio: Possui graduação (1996) e mestrado (2005) em Ciência da Computação pela Universidade Federal de Pernambuco. Atualmente é professor e coordenador do curso de Ciência da Computação da Universidade Católica de Pernambuco. Tem experiência em Liderança de Projetos de P&D na área de Ciência da Computação, com ênfase em Visão Computacional, atuando principalmente em temas como Reconstrução 3D e Realidade Aumentada.
 
 interests:
   - Computação Gráfica
   - Desenvolvimentso de Apps
   - Linguagens de Programação
-  - Realidade aumentada
-  - reconstrução 3D
+  - Realidade Aumentada
+  - Reconstrução 3D
   - Visão Computacional 
 
 education:
   courses:
-    - course: Mestrado em  Ciências da Computação
+    - course: Mestrado em Ciências da Computação
       institution: Universidade Federal de Pernambuco
       year: 2005
-    - course: Graduação em   Ciências da Computação
-      institution:  Universidade  Federal de Pernambuco
+    - course: Graduação em Ciências da Computação
+      institution: Universidade Federal de Pernambuco
       year: 1996
 
 # Social/Academic Networking
@@ -62,4 +62,4 @@ user_groups:
   - Professores
 ---
 
-  O professor marcio é professor de programação web e mobile,aplicações orientadas a serviço,banco de dados 2,programação para dispositivos moveis e engenhaira de software
+  O professor Marcio é professor de Programação Web e Mobile, Aplicações Orientadas a Serviço, Banco de Dados 2, Programação para Dispositivos Móveis e Engenhaira de Software.
