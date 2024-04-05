@@ -10,7 +10,8 @@ role: Professor de Criptografia e Segurança de Redes e Processamento Digital de
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidade Católica de Pernambuco
+  - name: 
+      Universidade Católica de Pernambuco
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
