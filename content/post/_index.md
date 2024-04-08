@@ -2,7 +2,7 @@
 title: Noticias e Novidades
 
 # Listing view
-view: stream
+view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
