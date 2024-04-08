@@ -7,10 +7,10 @@ event_url: https://semana.org
 location: predio caro
 address:
   street: Rua do Príncipe, 526 - Boa Vista 
-  city: recife
+  city: Recife
   region: PE
   postcode: '50050-900'
-  country: Brail
+  country: Brasil
 
 summary: IEE
 abstract: '
@@ -20,7 +20,8 @@ Neste ano, o evento conta com a organização de professores e alunos da Unicap.
 
 Waldemar Neto é ex-professor da Unicap, sendo atualmente parte do corpo docente da UFRPE.
 
-O evento conta também com a participação do professor Wilmer Camacho, do curso de Física'
+O evento conta também com a participação do professor Wilmer Camacho, do curso de Física.
+'
 
 
 #<colocar foto da semana da computaçao>

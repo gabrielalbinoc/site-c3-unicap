@@ -1,5 +1,5 @@
 ---
-title: extensao
+title: Extensão
 
 # Listing view
 view: compact
