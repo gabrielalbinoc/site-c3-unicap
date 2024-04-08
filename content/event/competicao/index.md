@@ -1,5 +1,5 @@
 ---
-title: competição
+title: Competição
 
 event: 
 event_url: https://semana.org
