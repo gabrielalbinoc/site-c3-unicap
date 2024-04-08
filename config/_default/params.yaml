@@ -7,7 +7,7 @@
 
 appearance:
   mode: dark
-  color: black
+  #color: black
   #theme_day: minimal
   #theme_night:
   font: native
