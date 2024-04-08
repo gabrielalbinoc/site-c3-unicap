@@ -8,7 +8,7 @@ summary: IEE
 abstract: '
 A nossa equipe da [@unicap.oficial](https://www.instagram.com/unicap.oficial/) representando Pernambuco na final brasileira da [@maratonadeprogramacao](https://www.instagram.com/maratonadeprogramacao/) da [@sbcoficial](https://www.instagram.com/sbcoficial/).
 
-A equipe é formada pelas estudantes [@rayssamunniz](https://www.instagram.com/rayssamunniz/), [@isadoravrx](https://www.instagram.com/isadoravrx/) e [@gabriel__henrique_](https://www.instagram.com/gabriel__henrique_).
+A equipe é formada pelos estudantes [@rayssamunniz](https://www.instagram.com/rayssamunniz/), [@isadoravrx](https://www.instagram.com/isadoravrx/) e [@gabriel__henrique_](https://www.instagram.com/gabriel__henrique_).
 
 Desde 1996, apenas equipes da UFPE se classificavam todos os anos em Pernambuco, com exceção da UPE em 2007 e da UFRPE em 2019. Em sua primeira participação, a Unicap conseguiu classificar uma equipe para representar Pernambuco na final brasileira da [maratona](https://maratona.unoesc.edu.br/) de programação da SBC que será nos dias 19/10 a 22/10 em Chapecó, Santa Catarina.
 
