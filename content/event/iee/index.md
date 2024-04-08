@@ -13,15 +13,6 @@ address:
   country: Brasil
 
 summary: IEE
-abstract: '
-Neste domingo (29/10), teve início o 9th IEEE LA-CCI 2023, uma das maiores conferências em Inteligência Artificial da América Latina, que segue até 1º de novembro.
-
-Neste ano, o evento conta com a organização de professores e alunos da Unicap. Em 2023, a conferência tem os professores do curso de Ciência da Computação Diego Pinheiro e Rodrigo Monteiro como General Chairs, a professora Andrea Ribeiro como Publicity Chair e os professores Liliane Fonseca e Waldemar Neto como Registration Chairs.
-
-Waldemar Neto é ex-professor da Unicap, sendo atualmente parte do corpo docente da UFRPE.
-
-O evento conta também com a participação do professor Wilmer Camacho, do curso de Física.
-'
 
 
 #<colocar foto da semana da computaçao>
@@ -65,3 +56,13 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+# Resumo
+
+Neste domingo (29/10), teve início o 9th IEEE LA-CCI 2023, uma das maiores conferências em Inteligência Artificial da América Latina, que segue até 1º de novembro.
+
+Neste ano, o evento conta com a organização de professores e alunos da Unicap. Em 2023, a conferência tem os professores do curso de Ciência da Computação Diego Pinheiro e Rodrigo Monteiro como General Chairs, a professora Andrea Ribeiro como Publicity Chair e os professores Liliane Fonseca e Waldemar Neto como Registration Chairs.
+
+Waldemar Neto é ex-professor da Unicap, sendo atualmente parte do corpo docente da UFRPE.
+
+O evento conta também com a participação do professor Wilmer Camacho, do curso de Física.
