@@ -5,16 +5,17 @@ event:
 event_url: https://semana.org
 
 summary: IEE
-abstract: 
-- |
-    Posted @withrepost • @unicap.imagem Alunos (as) dos cursos de Ciência da Computação e Engenharia da Complexidade da Unicap conquistaram o terceiro lugar no Hacker Cidadão 9.0, hackathon realizado na sexta (18/11) e sábado (19/11), no CESAR. Foi a primeira vez que a UNICAP participou do evento e já foi premiada. Foram mais de 36h de muita criatividade, inovação e tecnologia. Foram formadas 12 equipes, uma delas a da UNICAP, que contou com o incentivo das professoras Andrea Maria, Michelle Matos e Liliane Fonseca. Os (as) alunos (as) levaram a ideia de desenvolver um aplicativo, o REC PG, jogo Caça ao Tesouro na Cidade do Recife, com o intuito de incentivar os pernambucanos e turistas a conhecerem a história da nossa cidade. O aplicativo contempla a ODS 11 (Cidades e Comunidades Sustentáveis) e visa ser algo bem interativo fomentando o turismo criativo. Desta forma, serão espalhados pelo centro histórico do Recife 10 totens com pistas, no qual os jogadores conseguirão chegar até o tesouro. O REC PG embarcará no E.I.T.A! Labs, tendo o suporte da Emprel, a Secretaria Executiva de Transformação Digital e a Secretaria de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação, além de receberem um incentivo da Prefeitura do Recife no valor aproximado de R$10 mil para auxiliar o desenvolvimento do protótipo do projeto. 
-    A equipe da Católica foi formada por
-    - Rayssa Muniz (3⁰ período de Ciência da Computação)
-    - Pedro Pepeu (2⁰ período de Ciência da Computação)
-    - Marcus Vinícius (4⁰ período de Ciência da Computação)
-    - Ryan Rangel (8⁰ período de Ciência da Computação)
-    - Mariana Oliveira (Eng. da complexidade)
-    - João Guilherme (Eng. da complexidade)
+abstract: '
+Posted @withrepost • @unicap.imagem Alunos (as) dos cursos de Ciência da Computação e Engenharia da Complexidade da Unicap conquistaram o terceiro lugar no Hacker Cidadão 9.0, hackathon realizado na sexta (18/11) e sábado (19/11), no CESAR. Foi a primeira vez que a UNICAP participou do evento e já foi premiada. Foram mais de 36h de muita criatividade, inovação e tecnologia. Foram formadas 12 equipes, uma delas a da UNICAP, que contou com o incentivo das professoras Andrea Maria, Michelle Matos e Liliane Fonseca.
+Os (as) alunos (as) levaram a ideia de desenvolver um aplicativo, o REC PG, jogo Caça ao Tesouro na Cidade do Recife, com o intuito de incentivar os pernambucanos e turistas a conhecerem a história da nossa cidade. O aplicativo contempla a ODS 11 (Cidades e Comunidades Sustentáveis) e visa ser algo bem interativo fomentando o turismo criativo. Desta forma, serão espalhados pelo centro histórico do Recife 10 totens com pistas, no qual os jogadores conseguirão chegar até o tesouro. O REC PG embarcará no E.I.T.A! Labs, tendo o suporte da Emprel, a Secretaria Executiva de Transformação Digital e a Secretaria de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação, além de receberem um incentivo da Prefeitura do Recife no valor aproximado de R$10 mil para auxiliar o desenvolvimento do protótipo do projeto. '
+  - |
+      A equipe da Católica foi formada por:
+      - Rayssa Muniz (3⁰ período de Ciência da Computação);
+      - Pedro Pepeu (2⁰ período de Ciência da Computação);
+      - Marcus Vinícius (4⁰ período de Ciência da Computação);
+      - Ryan Rangel (8⁰ período de Ciência da Computação);
+      - Mariana Oliveira (Eng. da complexidade);
+      - João Guilherme (Eng. da complexidade).
 
 
 #<colocar foto da semana da computaçao>
