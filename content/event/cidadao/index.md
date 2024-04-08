@@ -12,7 +12,7 @@ summary: IEE
 
 
 # Schedule page publish date (NOT talk date).
-#publishDate: '2024-01-15T00:00:00Z'
+publishDate: '2024-01-15T00:00:00Z'
 
 authors: [thais mesquita]
 tags: []
