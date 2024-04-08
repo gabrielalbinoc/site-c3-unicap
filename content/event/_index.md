@@ -1,5 +1,5 @@
 ---
-title: Futuros eventos e eventos que ja aconteceram
+title: Eventos
 
 # Listing view
 view: compact
