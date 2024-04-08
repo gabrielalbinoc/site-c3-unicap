@@ -10,9 +10,8 @@ summary: IEE
 #<colocar foto da semana da computaçao>
 
 
-
 # Schedule page publish date (NOT talk date).
-date: '2024-01-15T00:00:00Z'
+publishDate: '2024-01-15T00:00:00Z'
 
 authors: [thais mesquita]
 tags: []
