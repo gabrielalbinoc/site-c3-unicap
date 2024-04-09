@@ -1,7 +1,7 @@
 ---
-title: Semana da computação 2024.1
+title: Semana da Computação 2024.1
 
-event: semana da computação
+event: Semana da Computação
 event_url: https://semana.org
 
 location: Unicap
@@ -12,7 +12,7 @@ address:
   postcode: '50050-900'
   country: Brail
 
-summary: Semana da Computação
+summary: semana da computação
 
 
 #<colocar foto da semana da computaçao>
