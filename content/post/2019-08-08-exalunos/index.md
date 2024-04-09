@@ -1,5 +1,5 @@
 ---
-title: pesquisa - capacitação - IoT
+title: Pesquisa - Ex-alunos
 date: 2023-08-02
 
 
@@ -32,6 +32,4 @@ A plataforma não serve apenas para o agendamento. "Há toda uma parte da funcio
 
 Mercado – A trajetória de sucesso desses egressos da Unicap encontrou terreno fértil num mercado de trabalho aquecido devido à transformação digital. De acordo com eles, tem sempre um projeto novo com mais demanda. "Recomendo bastante a área de computação. Ano passado foi o que mais faturou, principalmente aqui no Recife, que é polo", analisa Siddhartha.
 
-"O networking é muito importante na formação acadêmica. O relacion
-
-amento é imprescindível na sua carreira profissional, independentemente de você seguir pelo empreendedorismo, setor público ou privado", aconselha Crystian.
+"O networking é muito importante na formação acadêmica. O relacionamento é imprescindível na sua carreira profissional, independentemente de você seguir pelo empreendedorismo, setor público ou privado", aconselha Crystian.

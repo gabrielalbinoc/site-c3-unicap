@@ -67,4 +67,4 @@ Existem várias opções para aprender HTML, incluindo:
 - [Codecademy](https://www.codecademy.com/learn/learn-html): Cursos interativos gratuitos.
 - [Coursera](https://www.coursera.org/): Oferece cursos aprofundados com exemplos reais.
 
-Em resumo, o HTML continua a ser a linguagem fundamental que compõe a maioria das páginas da internet, proporcionando estrutura e organização ao conteúdo online
+Em resumo, o HTML continua a ser a linguagem fundamental que compõe a maioria das páginas da internet, proporcionando estrutura e organização ao conteúdo online.

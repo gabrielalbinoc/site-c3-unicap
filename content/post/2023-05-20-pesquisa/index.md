@@ -1,5 +1,5 @@
 ---
-title: pesquisa - capacitação - IoT
+title: Pesquisa - Capacitação - IoT
 date: 2023-08-02
 
 authors: [Thais Mesquita]

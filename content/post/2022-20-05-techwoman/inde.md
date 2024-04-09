@@ -9,7 +9,7 @@ tags:
   - mulheres
 
 ---
-Ao longo desta segunda-feira (20), o curso de Ciência da Computação promoveu o evento + Delas. A programação abordou a participação feminina no empreendedorismo, na ciência e na segurança a partir da tecnologia.
+Ao longo desta segunda-feira (20), o curso de Ciência da Computação promoveu o evento +delas. A programação abordou a participação feminina no empreendedorismo, na ciência e na segurança a partir da tecnologia.
 
 O Pavilhão Maker recebeu a secretária executiva da Mulher de Pernambuco, Juliana Gouveia. Com experiência de quem conduziu a pasta por quatro anos em Caruaru, a gestora pública provocou reflexões sobre o conceito de segurança da mulher. Para ela, a violência contra a mulher ainda faz parte do dia a dia e precisa ser combatida permanentemente.
 

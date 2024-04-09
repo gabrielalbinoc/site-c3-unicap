@@ -1,9 +1,9 @@
 ---
-title: iniciação cienfica
+title: Iniciação Cienfica
 date: 2024-01-20
 
 
-authors: [thais mesquita]
+authors: [Thais Mesquita]
 tags:
   - iniciação
   - pesquisa
