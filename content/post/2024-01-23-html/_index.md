@@ -2,14 +2,14 @@
 title: HTML - Linguagem de Marcação de Hipertexto
 date: 2024-01-20
 
-authors: [thais mesquita]
+authors: [Thais Mesquita]
 tags:
   - assuntos
   - internet
   - redes de computadores
 -----
 
-## HTML
+# HTML
 
 O HTML, sigla para HyperText Markup Language (Linguagem de Marcação de Hipertexto, em inglês), é uma linguagem essencial para a criação de documentos e páginas da web. Criado na década de 1990 pelo físico britânico Tim Berners-Lee, o "pai da web", o HTML desempenha um papel crucial na formatação de documentos compartilhados online.
 

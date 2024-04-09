@@ -57,7 +57,7 @@ slides:
 projects:
 ---
 
- # Resumo
+ ## Resumo
 
  A semana da computaçao é um evento que acontece duas vezes ao ano na universidade no qual é oferecido aos alunos palestras, oficinas e minicursos, divididos em trilhas específicas com o apoio de professores, estudantes e especialistas na área para compartilhar conhecimento, experiências e estreitar laços profissionais.
 

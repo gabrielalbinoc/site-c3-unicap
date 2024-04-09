@@ -43,7 +43,7 @@ slides:
 projects:
 ---
 
-# Resumo
+## Resumo
 
 Alunos(as) dos cursos de Ciência da Computação e Engenharia da Complexidade da Unicap conquistaram o terceiro lugar no Hacker Cidadão 9.0, hackathon realizado na sexta (18/11) e sábado (19/11), no CESAR. Foi a primeira vez que a UNICAP participou do evento e já foi premiada. Foram mais de 36 horas de muita criatividade, inovação e tecnologia. 
 

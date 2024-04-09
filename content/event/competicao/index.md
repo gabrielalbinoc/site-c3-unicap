@@ -40,7 +40,7 @@ slides:
 projects:
 ---
 
-# Resumo
+## Resumo
 
 A nossa equipe da [@unicap.oficial](https://www.instagram.com/unicap.oficial/) representando Pernambuco na final brasileira da [@maratonadeprogramacao](https://www.instagram.com/maratonadeprogramacao/) da [@sbcoficial](https://www.instagram.com/sbcoficial/).
 

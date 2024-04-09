@@ -2,7 +2,7 @@
 title: pesquisa - capacitação - IoT
 date: 2023-08-02
 
-authors: [thais mesquita]
+authors: [Thais Mesquita]
 tags:
   - iniciação
   - pesquisa

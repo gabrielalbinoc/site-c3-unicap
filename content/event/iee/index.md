@@ -57,7 +57,7 @@ slides:
 projects:
 ---
 
-# Resumo
+## Resumo
 
 Neste domingo (29/10), teve início o 9th IEEE LA-CCI 2023, uma das maiores conferências em Inteligência Artificial da América Latina, que segue até 1º de novembro.
 
