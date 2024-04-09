@@ -27,14 +27,14 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-01-05T00:00:00Z'
 
-authors: [thais mesquita]
+authors: [Thais Mesquita]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 url_code: ''
