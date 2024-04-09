@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doutor e Mestre em Ciências da Computação pelo Centro de Informática da Universidade Federal de Pernambuco (CIn-UFPE) e concluí o meu Pós-Doutorado no Instituto de Computação (IC) da Universidade Estadual de Campinas (UNICAMP). Minha carreira profissional destaca-se pela vasta experiência em NLP, LLM, Chatbots, Representação do Conhecimento, Ciência de Dados, Aprendizado de Máquina e Redes de Computadores. Meu trabalho se distingue pelo uso de Métodos Rigorosos e Inovadores, sempre buscando a excelência e a confiabilidade em Sistemas Computacionais. Atualmente, lidero a equipe de PD, onde aplico minha experiência para impulsionar Avanços Tecnológicos e desenvolvimento baseados nas melhores práticas de Engenharia de Software.
+#bio: Doutor e Mestre em Ciências da Computação pelo Centro de Informática da Universidade Federal de Pernambuco (CIn-UFPE) e concluí o meu Pós-Doutorado no Instituto de Computação (IC) da Universidade Estadual de Campinas (UNICAMP). Minha carreira profissional destaca-se pela vasta experiência em NLP, LLM, Chatbots, Representação do Conhecimento, Ciência de Dados, Aprendizado de Máquina e Redes de Computadores. Meu trabalho se distingue pelo uso de Métodos Rigorosos e Inovadores, sempre buscando a excelência e a confiabilidade em Sistemas Computacionais. Atualmente, lidero a equipe de PD, onde aplico minha experiência para impulsionar Avanços Tecnológicos e desenvolvimento baseados nas melhores práticas de Engenharia de Software.
 
 interests:
   - Redes de Computadores
@@ -62,4 +62,5 @@ user_groups:
   - Professores
   - Pesquisadores
 ---
-O professor Rafael é responsavel pelas cadeiras de Fundamentos da Computação, Segurança e Auditoria de Sistemas, Programação para Web,Inteligência Artificial Aplicada, Programação para Dispositivos Móveis, Projeto Integrador 4, Governança de TI, Engenharia de Software.
+
+Doutor e Mestre em Ciências da Computação pelo Centro de Informática da Universidade Federal de Pernambuco (CIn-UFPE) e concluí o meu Pós-Doutorado no Instituto de Computação (IC) da Universidade Estadual de Campinas (UNICAMP). Minha carreira profissional destaca-se pela vasta experiência em NLP, LLM, Chatbots, Representação do Conhecimento, Ciência de Dados, Aprendizado de Máquina e Redes de Computadores. Meu trabalho se distingue pelo uso de Métodos Rigorosos e Inovadores, sempre buscando a excelência e a confiabilidade em Sistemas Computacionais. Atualmente, lidero a equipe de PD, onde aplico minha experiência para impulsionar Avanços Tecnológicos e desenvolvimento baseados nas melhores práticas de Engenharia de Software.

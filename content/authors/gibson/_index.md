@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Formado em Engenharia da Computação (2014), possui mestrado (2017) e doutorado (2022) em Ciência da Computação pela UFPE (Universidade Federal de Pernambuco). Atualmente, Gibson desenvolve pesquisa com colaboração Humano-Robô, Indústria 4.0 e Internet das Coisas, considerando questões de segurança nessa relação. Ele possui experiência em Inteligência Computacional, Análise de Agrupamento e Prototipagem de Placas de Circuito Impresso. Também, já trabalhou com FPGA, Testes e Verificação de Sistemas RTL.
+#bio: Formado em Engenharia da Computação (2014), possui mestrado (2017) e doutorado (2022) em Ciência da Computação pela UFPE (Universidade Federal de Pernambuco). Atualmente, Gibson desenvolve pesquisa com colaboração Humano-Robô, Indústria 4.0 e Internet das Coisas, considerando questões de segurança nessa relação. Ele possui experiência em Inteligência Computacional, Análise de Agrupamento e Prototipagem de Placas de Circuito Impresso. Também, já trabalhou com FPGA, Testes e Verificação de Sistemas RTL.
 
 interests:
   - Engenharia de Software
@@ -59,4 +59,4 @@ user_groups:
   - Professores
 ---
   
-  O professor Gibson é responsavel pelas cadeiras de Métodos Numéricos, Fundamentos da Programação, Análise de Algoritmos, Elementos da Diferenciação Computacional, Computação Sociedade e Sustentabilidade, Programação Estruturada.
+Formado em Engenharia da Computação (2014), possui mestrado (2017) e doutorado (2022) em Ciência da Computação pela UFPE (Universidade Federal de Pernambuco). Atualmente, Gibson desenvolve pesquisa com colaboração Humano-Robô, Indústria 4.0 e Internet das Coisas, considerando questões de segurança nessa relação. Ele possui experiência em Inteligência Computacional, Análise de Agrupamento e Prototipagem de Placas de Circuito Impresso. Também, já trabalhou com FPGA, Testes e Verificação de Sistemas RTL.

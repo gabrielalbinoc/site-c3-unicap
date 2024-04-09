@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: UNICAP (Universidade Católica de Pernambuco), professor do curso de Ciência da Computação; ETE-Ginásio Pernambucano, professor do ensino técnico; CIn-UFPE, aluno do programa de Doutorado em Ciência da Computação desde 2019.1 até o presente; Mestrado em Ciência da Computação pelo CIn-UFPE, concluído em 2011.2; Especializado em Engenharia de Software e Testes no Curso de Extensão UFPE-CIn (2007); Graduado em Sistemas de Informação com ênfase em Engenharia de Software pela Faculdade Integrada do Recife, FIR (2007); Técnico em Contabilidade pelo Centro Interescolar Santos Dummont (1997). Professor (Pós-graduação, Graduação e Técnico); Pesquisador (CAPES); Pesquisador do IEI - Instituto Educação Para Inovação; Fez parte do corpo editorial e científico da revista S.Informe.
+#bio: UNICAP (Universidade Católica de Pernambuco), professor do curso de Ciência da Computação; ETE-Ginásio Pernambucano, professor do ensino técnico; CIn-UFPE, aluno do programa de Doutorado em Ciência da Computação desde 2019.1 até o presente; Mestrado em Ciência da Computação pelo CIn-UFPE, concluído em 2011.2; Especializado em Engenharia de Software e Testes no Curso de Extensão UFPE-CIn (2007); Graduado em Sistemas de Informação com ênfase em Engenharia de Software pela Faculdade Integrada do Recife, FIR (2007); Técnico em Contabilidade pelo Centro Interescolar Santos Dummont (1997). Professor (Pós-graduação, Graduação e Técnico); Pesquisador (CAPES); Pesquisador do IEI - Instituto Educação Para Inovação; Fez parte do corpo editorial e científico da revista S.Informe.
 
 interests :
   - Java
@@ -65,5 +65,5 @@ user_groups:
   - Professores
 ---
 
-O professor Emmanuel é responsável pelas cadeiras de Informatica e Sociedade, Tópicos Avançados em Computaçao 1, Banco de Dados 1, Programação Paralela e Distribuida.
+UNICAP (Universidade Católica de Pernambuco), professor do curso de Ciência da Computação; ETE-Ginásio Pernambucano, professor do ensino técnico; CIn-UFPE, aluno do programa de Doutorado em Ciência da Computação desde 2019.1 até o presente; Mestrado em Ciência da Computação pelo CIn-UFPE, concluído em 2011.2; Especializado em Engenharia de Software e Testes no Curso de Extensão UFPE-CIn (2007); Graduado em Sistemas de Informação com ênfase em Engenharia de Software pela Faculdade Integrada do Recife, FIR (2007); Técnico em Contabilidade pelo Centro Interescolar Santos Dummont (1997). Professor (Pós-graduação, Graduação e Técnico); Pesquisador (CAPES); Pesquisador do IEI - Instituto Educação Para Inovação; Fez parte do corpo editorial e científico da revista S.Informe.
 

@@ -13,7 +13,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Obteve seu doutorado em Ciência da Computação pela Universidade Federal de Pernambuco (UFPE) em 2022, seu mestrado em Engenharia de Sistemas pela Universidade de Pernambuco em 2016 e seu bacharelado em Ciência da Computação pela Universidade Católica de Pernambuco em 2013. Suas áreas de interesse de pesquisa incluem Processamento Digital de Imagens, Inteligência Computacional e Visão Computacional.
+#bio: Obteve seu doutorado em Ciência da Computação pela Universidade Federal de Pernambuco (UFPE) em 2022, seu mestrado em Engenharia de Sistemas pela Universidade de Pernambuco em 2016 e seu bacharelado em Ciência da Computação pela Universidade Católica de Pernambuco em 2013. Suas áreas de interesse de pesquisa incluem Processamento Digital de Imagens, Inteligência Computacional e Visão Computacional.
 
 interests:
   - Visão Computacional
@@ -57,4 +57,4 @@ user_groups:
   - Professores
 ---
 
-O professor Marcos é responsavel por Sistemas Operacionais, Linguagens Formais, Grafos, Estrutura de Dados 1 e 2, Computação Gráfica.
+Obteve seu doutorado em Ciência da Computação pela Universidade Federal de Pernambuco (UFPE) em 2022, seu mestrado em Engenharia de Sistemas pela Universidade de Pernambuco em 2016 e seu bacharelado em Ciência da Computação pela Universidade Católica de Pernambuco em 2013. Suas áreas de interesse de pesquisa incluem Processamento Digital de Imagens, Inteligência Computacional e Visão Computacional.

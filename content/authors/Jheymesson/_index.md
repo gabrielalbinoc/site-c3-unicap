@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Graduado em Engenharia de Computação pela Universidade de Pernambuco (UPE), utilizando C, Java e Python como as principais linguagens de programação do curso, com foco em Inteligência Artificial, mais especificamente Redes Neurais Artificiais (RNA). Mestrado concluído na Universidade de Pernambuco (UPE), pelo Programa de Pós-Graduação em Engenharia de Computação (PPGEC), com ênfase em Inteligência Computacional e Reconhecimento de Padrões, priorizando aplicações de RNAs para soluções de problemas de regressão utilizando Matlab, R e o Keras como ferramentas. Atualmente doutorando em Inteligência Artificial com foco em Seleção dinâmica para Ensembles de Regressores.
+#bio: Graduado em Engenharia de Computação pela Universidade de Pernambuco (UPE), utilizando C, Java e Python como as principais linguagens de programação do curso, com foco em Inteligência Artificial, mais especificamente Redes Neurais Artificiais (RNA). Mestrado concluído na Universidade de Pernambuco (UPE), pelo Programa de Pós-Graduação em Engenharia de Computação (PPGEC), com ênfase em Inteligência Computacional e Reconhecimento de Padrões, priorizando aplicações de RNAs para soluções de problemas de regressão utilizando Matlab, R e o Keras como ferramentas. Atualmente doutorando em Inteligência Artificial com foco em Seleção dinâmica para Ensembles de Regressores.
 
 interests:
   - Inteligência Computacional
@@ -58,5 +58,5 @@ user_groups:
   - Pesquisadores
 ---
  
- Professor gabriel é responsavel pelas cadeiras de banco de dados,conceitos de sistemas operacionais,enpreendorismo e inovação ,programação front-end ,projetos integrador 5 e gestao de projetos
+Graduado em Engenharia de Computação pela Universidade de Pernambuco (UPE), utilizando C, Java e Python como as principais linguagens de programação do curso, com foco em Inteligência Artificial, mais especificamente Redes Neurais Artificiais (RNA). Mestrado concluído na Universidade de Pernambuco (UPE), pelo Programa de Pós-Graduação em Engenharia de Computação (PPGEC), com ênfase em Inteligência Computacional e Reconhecimento de Padrões, priorizando aplicações de RNAs para soluções de problemas de regressão utilizando Matlab, R e o Keras como ferramentas. Atualmente doutorando em Inteligência Artificial com foco em Seleção dinâmica para Ensembles de Regressores.
  

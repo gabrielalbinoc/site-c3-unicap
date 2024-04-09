@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Experiência de seis anos na indústria. Experiência internacional na forma de Pós-Doutorado na University of California, Davis, em 2018. Experiência na coordenação de projetos com financiamentos internacionais. Experiência como revisor de periódicos internacionais. Agraciado com honraria internacional.
+#bio: Experiência de seis anos na indústria. Experiência internacional na forma de Pós-Doutorado na University of California, Davis, em 2018. Experiência na coordenação de projetos com financiamentos internacionais. Experiência como revisor de periódicos internacionais. Agraciado com honraria internacional.
 
 interests:
   - Inteligência Artificial
@@ -73,4 +73,4 @@ user_groups:
   - Professores
 ---
  
-  O professor Diego reviveu o projeto de competição de programação e um dos grupos da Unicap vão participar da ACM International Collegiate Programming Contest, uma competição muldial. Tambem é professor das cadeiras de Fundamentos da Programação, Ciência dos Dados, Programação Estruturada, Estrutura de Dados 1 e Engenharia de Software 2. 
+Experiência de seis anos na indústria. Experiência internacional na forma de Pós-Doutorado na University of California, Davis, em 2018. Experiência na coordenação de projetos com financiamentos internacionais. Experiência como revisor de periódicos internacionais. Agraciado com honraria internacional.

@@ -16,7 +16,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Possui graduação (1996) e mestrado (2005) em Ciência da Computação pela Universidade Federal de Pernambuco. Atualmente é professor e coordenador do curso de Ciência da Computação da Universidade Católica de Pernambuco. Tem experiência em Liderança de Projetos de P&D na área de Ciência da Computação, com ênfase em Visão Computacional, atuando principalmente em temas como Reconstrução 3D e Realidade Aumentada.
+#bio: Possui graduação (1996) e mestrado (2005) em Ciência da Computação pela Universidade Federal de Pernambuco. Atualmente é professor e coordenador do curso de Ciência da Computação da Universidade Católica de Pernambuco. Tem experiência em Liderança de Projetos de P&D na área de Ciência da Computação, com ênfase em Visão Computacional, atuando principalmente em temas como Reconstrução 3D e Realidade Aumentada.
 
 interests:
   - Computação Gráfica
@@ -62,4 +62,4 @@ user_groups:
   - Professores
 ---
 
-  O professor Marcio é professor de Programação Web e Mobile, Aplicações Orientadas a Serviço, Banco de Dados 2, Programação para Dispositivos Móveis e Engenhaira de Software.
+Possui graduação (1996) e mestrado (2005) em Ciência da Computação pela Universidade Federal de Pernambuco. Atualmente é professor e coordenador do curso de Ciência da Computação da Universidade Católica de Pernambuco. Tem experiência em Liderança de Projetos de P&D na área de Ciência da Computação, com ênfase em Visão Computacional, atuando principalmente em temas como Reconstrução 3D e Realidade Aumentada.
