@@ -67,5 +67,3 @@ user_groups:
   - Professores
   - Pesquisadores
 ---
-
-O professor Assis é responsavel pelas cadeiras de Sistemas Digiatis, Compiladores, Redes de Computadores 1 , Computação e Sociedade e Sustentabilidade.
