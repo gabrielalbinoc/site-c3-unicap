@@ -12,7 +12,7 @@ address:
   postcode: '50050-900'
   country: Brail
 
-summary: semana da computação
+summary: Semana da Computação
 
 
 #<colocar foto da semana da computaçao>
