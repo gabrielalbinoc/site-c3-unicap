@@ -1,8 +1,8 @@
 ---
-title: o que é o LaTeX e como pode ajudar para desenvolver o trabalho de conclusao de curso (TCC)
+title: o que é o LaTeX e como pode ajudar para desenvolver o Trabalho de Conclusao de Curso (TCC)
 date: 2024-01-20
 
-authors: [thais mesquita]
+authors: [Thais Mesquita]
 tags:
   - pesquisa
 ---
