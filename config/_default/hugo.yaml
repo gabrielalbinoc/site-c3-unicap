@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Ciência da Computação da Católica - C3 # Website name
+title: UNICAP - C3 # Website name
 baseURL: https://teste-unicap-site-33664455.netlify.app/ #'https://cienciacomputacaocatolica.com/' # Website URL
 
 ############################
