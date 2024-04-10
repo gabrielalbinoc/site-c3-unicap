@@ -43,9 +43,6 @@ header:
     fixed_to_top: true
     button:
       enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
-    # Let the user choose between light or dark mode?
     show_theme_chooser: true
     
 
