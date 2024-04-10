@@ -1,49 +1,97 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+# Bem-vindo ao Projeto 👋
 
-[![Screenshot](./preview.png)](https://hugoblox.com/templates/)
+Este projeto foi desenvolvido durante o estágio para a agência experimental da universidade. O objetivo era criar um site para o curso de Ciência da Computação, utilizando a framework Hugo.
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+## Sobre o Projeto :octocat: 
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+O site desenvolvido visa proporcionar informações relevantes sobre o curso, como eventos, projetos, corpo docente e muito mais. Utilizamos a framework Hugo para garantir eficiência e facilidade na manutenção.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+Itens que foram necessários para o desenvolvimento do projeto:
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+- [ O template ](https://github.com/HugoBlox/theme-research-group) 🌐
+- [Configurações do ambiente de desenvolvimento](https://www.youtube.com/watch?v=hjD9jTi_DQ4)💎
+- [Documentação do Hugo](https://gohugo.io/documentation/) 📚
+- [Entendimento de como o Hugo funciona e exemplos de código](https://kinsta.com/pt/blog/site-estatico-hugo/)📖
+- [Vídeo que ajuda a entender como criar pelo terminal](https://www.youtube.com/watch?v=RBhCQMbKFSo&t=5345s&pp=ygUOSFVHTyBGUkFNRVdPUks%3D)
+- [Ícones para embelezar](https://gist.github.com/rxaviers/7360908)💄
 
-The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+## Como Começar
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+2. Instale as dependências: `npm install`
+3. Execute o projeto localmente: `npm start`
 
-## We ask you, humbly, to support this open source movement
+Fique à vontade para explorar o código-fonte e abrir [issues](link_para_nova_issue) para relatar problemas🐛  ou sugerir melhorias.🌱
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+Pode dar uma olhada nesses slides que possuem links que podem ajudar : [apresentação do site}(https://www.canva.com/design/DAF7CgzrHO8/p2RZZEAVAD-iSVUpe5IoVQ/view?utm_content=DAF7CgzrHO8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+# Estrutura do Projeto
 
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
+Aqui está uma breve descrição de algumas das pastas importantes neste projeto:
 
-## Demo image credits
 
-- [Unsplash](https://unsplash.com)
+# na pasta 📂 assets
 
-## Latest news
+Temos duas pastas, uma chamada de `scss` e outra chamada de `media`, além de um arquivo chamado `jsconfig.json`.
 
-<!--START_SECTION:news-->
-* [6 Compelling Reasons I Switched from WordPress to Hugo](https:&#x2F;&#x2F;hugoblox.com&#x2F;vs&#x2F;wordpress&#x2F;)
-* [The 7 best landing page builders in 2024](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;7-best-landing-page-builders&#x2F;)
-* [Start a Blog and Make Money in 2024: Here&#39;s What You Need to Know](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;start-a-blog-and-make-money&#x2F;)
-* [Hugo vs Quarto: Which One is Better for 2024?](https:&#x2F;&#x2F;hugoblox.com&#x2F;vs&#x2F;quarto&#x2F;)
-* [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
-<!--END_SECTION:news-->
+
+
+No folder 📂 `media`, temos diversas imagens e um folder chamado `icons` que contém um arquivo chamado `.gitkeep`. As imagens são predominantemente do tipo jpg, exceto `icon.png`, que é o ícone que aparece como emblema.
+
+
+---
+
+No folder 📂 `config/_default`temos os seguintes itens :
+
+- **`config.toml` (ou `config.yaml` ou `config.json`)**: Contém configurações globais para o site. Aqui, você mencionou a variável `title` que define o título do site da universidade. Além disso, pode conter configurações para outras funcionalidades básicas, como a linguagem do site.
+
+- **`languages.yaml`**: Utilizado para determinar as configurações de idiomas do site. Pode conter informações sobre traduções e configurações específicas de cada idioma.
+
+- **`menus.yaml`**: Define menus, como o menu principal (`main`). Aqui, você configura as páginas que deseja incluir no menu e os nomes visíveis para os usuários (`name`).
+
+- **`module.yaml`**: Utilizado para configurações relacionadas a módulos do Hugo. Módulos são uma maneira de compartilhar e reutilizar partes do seu site em diferentes projetos.
+
+- **`params.yaml`**: Contém parâmetros adicionais que podem ser usados em várias partes do seu site. Parece ser utilizado para configurar parâmetros gerais.
+
+---
+
+##📂folder content
+Dentro da pasta `content`, as seguintes subpastas compõem a estrutura do site:
+
+#📂  folder authors
+
+No corpo docente, temos os professores e a coordenação. Cada folder ou pasta 📂  tem o nome do professor(a), e dentro dessa pasta, haverá um arquivo chamado `_index.md` com as informações dos professores, seguindo o mesmo modelo. Além disso, cada pasta contém uma imagem chamada `avatar.png` com cor de fundo padrão para todos. Este folder serve para os alunos conhecerem melhor os professores.
+
+# 📂  folder contact
+
+Existe um único arquivo chamado `index.md` que basicamente contém o telefone da Católica e a localização da Unicap.
+
+# 📂  folder event
+
+Segue o mesmo padrão de um folder para cada postagem. É recomendado utilizar um nome fácil de compreensão que defina bem o conteúdo da postagem do evento. Por exemplo, o folder "iee" possui dois itens: uma imagem coletada no Instagram e um arquivo chamado `index.md` que descreve o evento e ajuda a incentivar a maior participação dos alunos.
+
+# 📂 folder  extra
+
+Podemos ter inúmeros folders 📂 falando sobre os projetos de extensão que já foram concluídos e também os que estão acontecendo. Por enquanto, só possui um outro folder que segue a estrutura de escrita `data - titulo`. Esta postagem é sobre o projeto de extensão "Technovation For Girls" que aconteceu no ano de 2023. Comparando com as outras postagens e modelos, notamos que é possível adicionar mais de uma imagem à postagem. Ele também possui um arquivo chamado `_index.md` que determina a forma da paginação.
+
+# 📂  folder people
+
+Existe apenas um arquivo chamado `index.md`. Nesse arquivo, podemos mudar um título que aparece acima da paginação de "authors", onde temos o nosso corpo docente. Além disso, podemos criar categorias de grupos de usuários, como professores, pesquisadores, coordenação.
+
+# 📂  folder  post
+
+Possui diversos folders que seguem a estrutura semelhante entre si e a forma que deve ser nomeado. Parecido no aspecto de ter uma descrição ou vários comentários e curiosidades no arquivo chamado `index.md` e uma imagem que deve/precisa ser nomeada como `featured.png`. Além disso, há um arquivo chamado `_index.md` que serve para determinar a forma que é feita a paginação.
+
+# 📂 folder  projects
+
+Temos os projetos de iniciação científica que seguem uma estrutura de nomenclatura semelhante aos outros como `data - titulo`. No entanto, esses folders não possuem uma imagem como item e só contêm um arquivo chamado `index.md`, onde temos o título, a data, os professores que participam do projeto, informações importantes como se o projeto ainda está em andamento, palavras-chave e, claro, a descrição do projeto. Ainda dentro do folder `projects`, temos um arquivo chamado `_index.md` que mantém o formato da página.
+
+# 📂  folder publication
+
+Segue a seguinte estrutura: tipo de publicação ou local de publicação, professor, tema. Exemplo: o folder `conference-madeiro-dislexia` que possui dois itens: um chamado de `cite.bib` e outro é o arquivo chamado `index.md`. Este contém informações importantes com os autores, o título, a data de publicação, o tipo de publicação, o abstract, as tags e onde pode ser visto, o link de visualização.
+
+# 📂 folder tour
+
+É um folder importante por ser a primeira página que é visualizada pelo usuário. Nela, podemos mudar/escolher o nome do filename, que nada mais é que o nome do arquivo que está guardado do folder `icon` que está dentro do folder `media`. Além disso, podemos escolher um título, escrever uma frase que fica no topo da paginação.                     ---
