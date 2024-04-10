@@ -41,8 +41,6 @@ header:
     show_search: true
     highlight_active_link: false
     fixed_to_top: true
-    button:
-      enable: true
     show_theme_chooser: true
     
 

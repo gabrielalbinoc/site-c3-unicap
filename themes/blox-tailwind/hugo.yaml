@@ -1,26 +1,3 @@
-# Configuration of Hugo
-# Guide: https://docs.hugoblox.com/tutorial/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-build:
-  writeStats: true
-title: UNICAP - C3 # Website name
-baseURL: https://teste-unicap-site-33664455.netlify.app/ #'https://cienciacomputacaocatolica.com/' # Website URL
-theme: blox-tailwind
-
-############################
-## LANGUAGE
-############################
-defaultContentLanguage: pt
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
-removePathAccents: true
-
-############################
-## ADVANCED 
-############################
-
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
