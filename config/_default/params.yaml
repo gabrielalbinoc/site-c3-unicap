@@ -37,7 +37,7 @@ header:
     enable: true
     # Choose a built-in navigation blox or create your own
     # Align menu links: `left`, `center`, or `right`
-    align: r
+    align: center
     # Fix the navigation bar to the top of the page
     fixed_to_top: true
     # Let the user choose between light or dark mode?
