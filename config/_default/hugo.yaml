@@ -3,11 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-build:
-  writeStats: true
 title: UNICAP - C3 # Website name
 baseURL: https://teste-unicap-site-33664455.netlify.app/ #'https://cienciacomputacaocatolica.com/' # Website URL
-theme: blox-tailwind
 
 ############################
 ## LANGUAGE
@@ -18,75 +15,47 @@ defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
-## ADVANCED 
+## ADVANCED
 ############################
 
+enableGitInfo: false
+summaryLength: 30
+paginate: 10
+enableEmoji: true
+enableRobotsTXT: true
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+permalinks:
+  authors: '/author/:slug/'
+  tags: '/tag/:slug/'
+  categories: '/category/:slug/'
+  publication_types: '/publication-type/:slug/'
+disableAliases: true
+outputs:
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  section: [HTML, RSS]
+imaging:
+  resampleFilter: lanczos
+  quality: 75
+  anchor: smart
+timeout: 600000
+taxonomies:
+  tag: tags
+  category: categories
+  publication_type: publication_types
+  author: authors
 markup:
-  defaultMarkdownHandler: goldmark
-  goldmark:
-    renderer:
-      unsafe: true
-    parser:
-      attribute:
-        block: true
-        title: true
-    extensions:
-      passthrough:
-        enable: true
-        delimiters:
-          block:
-            - - \[
-              - \]
-            - - $$
-              - $$
-          inline:
-            - - \(
-              - \)
-            - - $
-              - $
-  highlight:
-    codeFences: true
-    noHl: false
-    lineNumbersInTable: false
-    noClasses: false
-    guessSyntax: true
-  tableOfContents:
-    startLevel: 2
-    endLevel: 3
-minify:
-  tdewolff:
-    html:
-      keepComments: true
-sitemap:
-  changefreq: weekly
-module:
-  hugoVersion:
-    min: '0.122.0'
-    extended: true
-  imports:
-    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics
-  mounts:
-    - source: content
-      target: content
-    - source: static
-      target: static
-    - source: layouts
-      target: layouts
-    - source: data
-      target: data
-    - source: assets
-      target: assets
-    - source: i18n
-      target: i18n
-    - source: archetypes
-      target: archetypes
+  _merge: deep
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 70
 security:
-  funcs:
-    getenv:
-      - ^HUGO_
-      - ^WC_
-params:
-  locale:
-    date_format: 'Jan 2, 2006'
-    time_format: '3:04 PM'
-    address_format: en-us
+  _merge: deep
+sitemap:
+  _merge: deep
