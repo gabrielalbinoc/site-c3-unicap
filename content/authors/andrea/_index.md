@@ -66,4 +66,7 @@ user_groups:
   - Professores
 ---
 
-Professora na UPE e na UNICAP, coordenadora de estágio do curso de Ciência da Computação da UNICAP e pesquisadora dos grupos de pesquisa dotLAB Brazil da UPE, do Grupo de Pesquisa em Redes e Telecomunicações da UFPE e do Grupo de Pesquisa de Computação Aplicada da UNICAP. Desenvolveu projeto de iniciação científica, pelo qual foi premiada no XVIII Congresso de Iniciação Científica da Universidade de Pernambuco (CONIC) em 1º lugar na área de Ciências Exatas e da Terra. Atuou como monitora na disciplina de Eletrônica III no último período do curso. Participou de programa de intercâmbio estudantil 2011/2012, convênio entre a UFPE, Brasil, e a Universidade TU-Berlin, Alemanha.
+<div align="justify">
+    Professora na UPE e na UNICAP, coordenadora de estágio do curso de Ciência da Computação da UNICAP e pesquisadora dos grupos de pesquisa dotLAB Brazil da UPE, do Grupo de Pesquisa em Redes e Telecomunicações da UFPE e do Grupo de Pesquisa de Computação Aplicada da UNICAP. Desenvolveu projeto de iniciação científica, pelo qual foi premiada no XVIII Congresso de Iniciação Científica da Universidade de Pernambuco (CONIC) em 1º lugar na área de Ciências Exatas e da Terra. Atuou como monitora na disciplina de Eletrônica III no último período do curso. Participou de programa de intercâmbio estudantil 2011/2012, convênio entre a UFPE, Brasil, e a Universidade TU-Berlin, Alemanha.
+</div>
+

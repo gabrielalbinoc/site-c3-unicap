@@ -57,4 +57,6 @@ user_groups:
   - Professores
 ---
 
-Obteve seu doutorado em Ciência da Computação pela Universidade Federal de Pernambuco (UFPE) em 2022, seu mestrado em Engenharia de Sistemas pela Universidade de Pernambuco em 2016 e seu bacharelado em Ciência da Computação pela Universidade Católica de Pernambuco em 2013. Suas áreas de interesse de pesquisa incluem Processamento Digital de Imagens, Inteligência Computacional e Visão Computacional.
+<div align="justify">
+    Obteve seu doutorado em Ciência da Computação pela Universidade Federal de Pernambuco (UFPE) em 2022, seu mestrado em Engenharia de Sistemas pela Universidade de Pernambuco em 2016 e seu bacharelado em Ciência da Computação pela Universidade Católica de Pernambuco em 2013. Suas áreas de interesse de pesquisa incluem Processamento Digital de Imagens, Inteligência Computacional e Visão Computacional.
+</div>

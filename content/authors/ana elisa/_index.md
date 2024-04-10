@@ -53,6 +53,7 @@ highlight_name: false
 user_groups:
   - Professores
 ---
+
 <div align="justify">
-    Possui graduação em Bacharelado em Ciência da Computação pela Universidade Federal do Ceará (1990) e mestrado em Ciência da Computação pela Universidade Federal de Pernambuco (1993). Atualmente, é adjunto I na Universidade Católica de Pernambuco. Tem experiência na área de Ciência da Computação, com ênfase em Engenharia de Software, atuando principalmente em temas como Linguagens de Programação, Algoritmos e Estruturas de Dados.
+  Possui graduação em Bacharelado em Ciência da Computação pela Universidade Federal do Ceará (1990) e mestrado em Ciência da Computação pela Universidade Federal de Pernambuco (1993). Atualmente, é adjunto I na Universidade Católica de Pernambuco. Tem experiência na área de Ciência da Computação, com ênfase em Engenharia de Software, atuando principalmente em temas como Linguagens de Programação, Algoritmos e Estruturas de Dados.
 </div>

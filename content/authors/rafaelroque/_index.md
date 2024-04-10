@@ -63,4 +63,6 @@ user_groups:
   - Pesquisadores
 ---
 
-Doutor e Mestre em Ciências da Computação pelo Centro de Informática da Universidade Federal de Pernambuco (CIn-UFPE) e concluí o meu Pós-Doutorado no Instituto de Computação (IC) da Universidade Estadual de Campinas (UNICAMP). Minha carreira profissional destaca-se pela vasta experiência em NLP, LLM, Chatbots, Representação do Conhecimento, Ciência de Dados, Aprendizado de Máquina e Redes de Computadores. Meu trabalho se distingue pelo uso de Métodos Rigorosos e Inovadores, sempre buscando a excelência e a confiabilidade em Sistemas Computacionais. Atualmente, lidero a equipe de PD, onde aplico minha experiência para impulsionar Avanços Tecnológicos e desenvolvimento baseados nas melhores práticas de Engenharia de Software.
+<div align="justify">
+    Doutor e Mestre em Ciências da Computação pelo Centro de Informática da Universidade Federal de Pernambuco (CIn-UFPE) e concluí o meu Pós-Doutorado no Instituto de Computação (IC) da Universidade Estadual de Campinas (UNICAMP). Minha carreira profissional destaca-se pela vasta experiência em NLP, LLM, Chatbots, Representação do Conhecimento, Ciência de Dados, Aprendizado de Máquina e Redes de Computadores. Meu trabalho se distingue pelo uso de Métodos Rigorosos e Inovadores, sempre buscando a excelência e a confiabilidade em Sistemas Computacionais. Atualmente, lidero a equipe de PD, onde aplico minha experiência para impulsionar Avanços Tecnológicos e desenvolvimento baseados nas melhores práticas de Engenharia de Software.
+</div>

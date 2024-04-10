@@ -72,5 +72,8 @@ user_groups:
   - Pesquisadores
   - Professores
 ---
- 
-Experiência de seis anos na indústria. Experiência internacional na forma de Pós-Doutorado na University of California, Davis, em 2018. Experiência na coordenação de projetos com financiamentos internacionais. Experiência como revisor de periódicos internacionais. Agraciado com honraria internacional.
+
+<div align="justify">
+    Experiência de seis anos na indústria. Experiência internacional na forma de Pós-Doutorado na University of California, Davis, em 2018. Experiência na coordenação de projetos com financiamentos internacionais. Experiência como revisor de periódicos internacionais. Agraciado com honraria internacional.
+</div> 
+

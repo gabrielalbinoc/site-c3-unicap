@@ -68,4 +68,6 @@ user_groups:
   - Pesquisadores
 ---
 
-Doutorando em Ciência da Computação na área de Redes de Computadores. Mestre em Ciência da Computação na área de Redes de Computadores. Bacharel em Ciência da Computação pela Universidade Católica de Pernambuco (2016). Técnico em Eletrônica pela União dos Institutos Brasileiros de Tecnologia - UNIBRATEC (2013). É Professor Assistente I na Universidade Católica de Pernambuco (UNICAP), onde leciona disciplinas nas áreas de Extensão, Compiladores, Arquitetura de Software, Sistemas Digitais e Redes de Computadores 1. Também é pesquisador e gerente de pesquisa do Networking and Telecommunications Research Group - GPRT.
+<div align="justify">
+    Doutorando em Ciência da Computação na área de Redes de Computadores. Mestre em Ciência da Computação na área de Redes de Computadores. Bacharel em Ciência da Computação pela Universidade Católica de Pernambuco (2016). Técnico em Eletrônica pela União dos Institutos Brasileiros de Tecnologia - UNIBRATEC (2013). É Professor Assistente I na Universidade Católica de Pernambuco (UNICAP), onde leciona disciplinas nas áreas de Extensão, Compiladores, Arquitetura de Software, Sistemas Digitais e Redes de Computadores 1. Também é pesquisador e gerente de pesquisa do Networking and Telecommunications Research Group - GPRT.
+</div>

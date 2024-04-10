@@ -62,4 +62,6 @@ user_groups:
   - Professores
 ---
 
-Possui graduação (1996) e mestrado (2005) em Ciência da Computação pela Universidade Federal de Pernambuco. Atualmente é professor e coordenador do curso de Ciência da Computação da Universidade Católica de Pernambuco. Tem experiência em Liderança de Projetos de P&D na área de Ciência da Computação, com ênfase em Visão Computacional, atuando principalmente em temas como Reconstrução 3D e Realidade Aumentada.
+<div align="justify">
+    Possui graduação (1996) e mestrado (2005) em Ciência da Computação pela Universidade Federal de Pernambuco. Atualmente é professor e coordenador do curso de Ciência da Computação da Universidade Católica de Pernambuco. Tem experiência em Liderança de Projetos de P&D na área de Ciência da Computação, com ênfase em Visão Computacional, atuando principalmente em temas como Reconstrução 3D e Realidade Aumentada.
+</div>
