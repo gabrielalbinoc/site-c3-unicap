@@ -15,7 +15,7 @@ defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
-## ADVANCED
+## ADVANCED 
 ############################
 
 enableGitInfo: false
