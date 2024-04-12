@@ -13,21 +13,19 @@ imagem: gurias.png
 publishDate: '2024-01-15T00:00:00Z'
 ---
 
-<p align="justify">
+<h3 align="justify">
     O curso de Ciência da Computação promoveu uma tarde de celebração nesta sexta-feira (05/05/2023) para marcar o final de mais uma edição do projeto de extensão Technovation For Girls 2023. As famílias das participantes foram até o Pavilhão Maker para assistir às apresentações dos trabalhos desenvolvidos ao longo dos últimos meses. 
-   <img src="gurias.jpeg" alt="Gurias"> </p> 
+    <img src="gurias.jpeg" alt="Gurias"> </h3> 
 
-A iniciativa envolve professoras, alunas, crianças e adolescentes que utilizam os laboratórios da Unicap para criar aplicativos voltados para os objetivos de desenvolvimento sustentável estabelecidos pela Organização das Nações Unidas. Os melhores são selecionados para participar das etapas nacional e internacional do desafio Technovation Girls.
+<p align="justify">
+    A iniciativa envolve professoras, alunas, crianças e adolescentes que utilizam os laboratórios da Unicap para criar aplicativos voltados para os objetivos de desenvolvimento sustentável estabelecidos pela Organização das Nações Unidas. Os melhores são selecionados para participar das etapas nacional e internacional do desafio Technovation Girls. </p>
 
-A embaixadora do evento no Brasil, Alice Rodrigues, falou sobre os impactos do projeto em Pernambuco, no Brasil e no mundo, além de números e equipes que venceram em edições anteriores. O Pró-reitor Comunitário e de Extensão, Padre Delmar Cardoso, esteve presente no evento.
+<p align="justify">
+    A embaixadora do evento no Brasil, Alice Rodrigues, falou sobre os impactos do projeto em Pernambuco, no Brasil e no mundo, além de números e equipes que venceram em edições anteriores. O Pró-reitor Comunitário e de Extensão, Padre Delmar Cardoso, esteve presente no evento. </p>
 
-Ao longo da tarde, as três equipes apresentaram seus trabalhos e soluções propostas. São os chamados pitches. Cada uma das participantes recebeu certificados. Entre elas estava Cecília, que completou 9 anos durante as atividades. Seus pais, os servidores públicos Rayanna Lira e Marcelo Lima, estavam orgulhosos.
+<p align="justify">
+    Ao longo da tarde, as três equipes apresentaram seus trabalhos e soluções propostas. São os chamados pitches. Cada uma das participantes recebeu certificados. Entre elas estava Cecília, que completou 9 anos durante as atividades. Seus pais, os servidores públicos Rayanna Lira e Marcelo Lima, estavam orgulhosos.</p> 
 
-“Acho o projeto fantástico. Eu trabalho e adoro tecnologia. Ver minha filha não só usando, mas criando coisas é prazeroso demais”, disse Marcelo, que também atua como professor de Tecnologia da Informação. “É um projeto muito legal e apenas com mulheres. Fiquei muito feliz e orgulhosa”, vibrava Rayanna.
-
-
-![professoras liliane e andrea](prof.jpeg)
-----
-
-Entre outros temas, as equipes trabalharam em aplicativos para resolver problemas na área de Meio Ambiente e bullying. Toda a mentoria foi de alunas dos cursos de tecnologia da Unicap, Ciência da Computação e Sistemas para Internet sob a supervisão de professoras da Católica. Um dos principais objetivos do projeto é o de estimular a presença das mulheres, desde criança, no campo da tecnologia.
-
+<p align="justify"> 
+    Entre outros temas, as equipes trabalharam em aplicativos para resolver problemas na área de Meio Ambiente e bullying. Toda a mentoria foi de alunas dos cursos de tecnologia da Unicap, Ciência da Computação e Sistemas para Internet sob a supervisão de professoras da Católica. Um dos principais objetivos do projeto é o de estimular a presença das mulheres, desde criança, no campo da tecnologia. 
+    <img src="prof.jpeg" alt="professoras liliane e andrea"> </p> 
