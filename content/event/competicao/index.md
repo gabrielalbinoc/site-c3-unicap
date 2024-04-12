@@ -43,7 +43,7 @@ projects:
 ## Resumo
 
 <p align="justify">
-    A nossa equipe da [@unicap.oficial](https://www.instagram.com/unicap.oficial/) representando Pernambuco na final brasileira da [@maratonadeprogramacao](https://www.instagram.com/maratonadeprogramacao/) da [@sbcoficial](https://www.instagram.com/sbcoficial/). </p> 
+    A nossa equipe da <a @unicap.oficial = "https://www.instagram.com/unicap.oficial/"> </a> representando Pernambuco na final brasileira da [@maratonadeprogramacao](https://www.instagram.com/maratonadeprogramacao/) da [@sbcoficial](https://www.instagram.com/sbcoficial/). </p> 
 
 <p align="justify">
     A equipe é formada pelos estudantes [@rayssamunniz](https://www.instagram.com/rayssamunniz/), [@isadoravrx](https://www.instagram.com/isadoravrx/) e [@gabriel__henrique_](https://www.instagram.com/gabriel__henrique_). </p>
