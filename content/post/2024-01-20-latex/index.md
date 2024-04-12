@@ -42,7 +42,7 @@ tags:
 - Edição robusta de fórmulas matemáticas.
 - Estruturas tipográficas complexas abstraídas para facilitar a geração consistente.
   
-  **Usos:**
+**Usos:**
 
 - Produção de relatórios, livros, artigos e apostilas.
 - Amplamente utilizado em eventos científicos e por editoras.
