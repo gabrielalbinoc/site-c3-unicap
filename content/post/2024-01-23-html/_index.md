@@ -12,13 +12,16 @@ tags:
 
 # HTML
 
-O HTML, sigla para HyperText Markup Language (Linguagem de Marcação de Hipertexto, em inglês), é uma linguagem essencial para a criação de documentos e páginas da web. Criado na década de 1990 pelo físico britânico Tim Berners-Lee, o "pai da web", o HTML desempenha um papel crucial na formatação de documentos compartilhados online.
+<p align="justify">
+    O HTML, sigla para HyperText Markup Language (Linguagem de Marcação de Hipertexto, em inglês), é uma linguagem essencial para a criação de documentos e páginas da web. Criado na década de 1990 pelo físico britânico Tim Berners-Lee, o "pai da web", o HTML desempenha um papel crucial na formatação de documentos compartilhados online. </p>
 
 ## Funcionamento do HTML
 
-O HTML utiliza marcadores, conhecidos como "tags", para identificar e definir elementos na página, como textos, imagens e vídeos. Esses elementos são organizados semanticamente, descrevendo a estrutura da página. A interpretação e renderização desses elementos são realizadas pelo navegador.
+<p align="justify">
+    O HTML utiliza marcadores, conhecidos como "tags", para identificar e definir elementos na página, como textos, imagens e vídeos. Esses elementos são organizados semanticamente, descrevendo a estrutura da página. A interpretação e renderização desses elementos são realizadas pelo navegador. </p>
 
-Aqui está um exemplo básico de uma página HTML exibindo a mensagem "Olá, mundo!":
+<p align="justify">
+    Aqui está um exemplo básico de uma página HTML exibindo a mensagem "Olá, mundo!": </p>
 
 ```html
 <!doctype html>
@@ -37,7 +40,8 @@ Aqui está um exemplo básico de uma página HTML exibindo a mensagem "Olá, mun
 
 ## Evolução do HTML
 
-Desde sua criação, o HTML evoluiu significativamente. Em 2014, foi lançado o HTML5, introduzindo novas funcionalidades, como a incorporação nativa de vídeos e áudios, além de melhorias semânticas com tags como `<article>`, `<section>`, `<aside>`, `<header>`, e `<footer>`.
+<p align="justify">
+    Desde sua criação, o HTML evoluiu significativamente. Em 2014, foi lançado o HTML5, introduzindo novas funcionalidades, como a incorporação nativa de vídeos e áudios, além de melhorias semânticas com tags como <article>, <section>, <aside>, <header>, e <footer>. </p>
 
 ## Prós e Contras do HTML
 
@@ -56,16 +60,21 @@ Desde sua criação, o HTML evoluiu significativamente. Em 2014, foi lançado o 
 
 ## Relação com CSS e JavaScript
 
-Embora poderoso, o HTML por si só não é suficiente para criar sites profissionais e responsivos. Ele funciona em conjunto com o CSS (Cascading Style Sheets) para estilização e o JavaScript para adicionar funcionalidades dinâmicas.
+<p align="justify">
+    Embora poderoso, o HTML por si só não é suficiente para criar sites profissionais e responsivos. Ele funciona em conjunto com o CSS (Cascading Style Sheets) para estilização e o JavaScript para adicionar funcionalidades dinâmicas. </p>
 
-No processo, o HTML atua como a estrutura base, o CSS como o responsável pelo estilo, e o JavaScript como a linguagem que proporciona funcionalidades avançadas e interativas.
+<p align="justify">
+    No processo, o HTML atua como a estrutura base, o CSS como o responsável pelo estilo, e o JavaScript como a linguagem que proporciona funcionalidades avançadas e interativas. </p>
+
 
 ## Recursos para Aprendizado
 
-Existem várias opções para aprender HTML, incluindo:
+<p align="justify">
+    Existem várias opções para aprender HTML, incluindo: </p>
 
 - [W3Schools](https://www.w3schools.com/html/): Recursos, exemplos e exercícios gratuitos.
 - [Codecademy](https://www.codecademy.com/learn/learn-html): Cursos interativos gratuitos.
 - [Coursera](https://www.coursera.org/): Oferece cursos aprofundados com exemplos reais.
 
-Em resumo, o HTML continua a ser a linguagem fundamental que compõe a maioria das páginas da internet, proporcionando estrutura e organização ao conteúdo online.
+<p align="justify">
+    Em resumo, o HTML continua a ser a linguagem fundamental que compõe a maioria das páginas da internet, proporcionando estrutura e organização ao conteúdo online. </p>
