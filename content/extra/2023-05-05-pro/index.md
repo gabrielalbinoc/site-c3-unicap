@@ -24,8 +24,8 @@ publishDate: '2024-01-15T00:00:00Z'
     A embaixadora do evento no Brasil, Alice Rodrigues, falou sobre os impactos do projeto em Pernambuco, no Brasil e no mundo, além de números e equipes que venceram em edições anteriores. O Pró-reitor Comunitário e de Extensão, Padre Delmar Cardoso, esteve presente no evento. </p>
 
 <p align="justify">
-    Ao longo da tarde, as três equipes apresentaram seus trabalhos e soluções propostas. São os chamados pitches. Cada uma das participantes recebeu certificados. Entre elas estava Cecília, que completou 9 anos durante as atividades. Seus pais, os servidores públicos Rayanna Lira e Marcelo Lima, estavam orgulhosos.</p> 
+    Ao longo da tarde, as três equipes apresentaram seus trabalhos e soluções propostas. São os chamados pitches. Cada uma das participantes recebeu certificados. Entre elas estava Cecília, que completou 9 anos durante as atividades. Seus pais, os servidores públicos Rayanna Lira e Marcelo Lima, estavam orgulhosos. 
+    <img src="prof.jpeg" alt="professoras liliane e andrea"> </p> 
 
 <p align="justify"> 
-    Entre outros temas, as equipes trabalharam em aplicativos para resolver problemas na área de Meio Ambiente e bullying. Toda a mentoria foi de alunas dos cursos de tecnologia da Unicap, Ciência da Computação e Sistemas para Internet sob a supervisão de professoras da Católica. Um dos principais objetivos do projeto é o de estimular a presença das mulheres, desde criança, no campo da tecnologia. 
-    <img src="prof.jpeg" alt="professoras liliane e andrea"> </p> 
+    Entre outros temas, as equipes trabalharam em aplicativos para resolver problemas na área de Meio Ambiente e bullying. Toda a mentoria foi de alunas dos cursos de tecnologia da Unicap, Ciência da Computação e Sistemas para Internet sob a supervisão de professoras da Católica. Um dos principais objetivos do projeto é o de estimular a presença das mulheres, desde criança, no campo da tecnologia. </p> 
