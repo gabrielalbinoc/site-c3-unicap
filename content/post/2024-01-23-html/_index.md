@@ -41,7 +41,7 @@ tags:
 ## Evolução do HTML
 
 <p align="justify">
-    Desde sua criação, o HTML evoluiu significativamente. Em 2014, foi lançado o HTML5, introduzindo novas funcionalidades, como a incorporação nativa de vídeos e áudios, além de melhorias semânticas com tags como <article>, <section>, <aside>, <header>, e <footer>. </p>
+    Desde sua criação, o HTML evoluiu significativamente. Em 2014, foi lançado o HTML5, introduzindo novas funcionalidades, como a incorporação nativa de vídeos e áudios, além de melhorias semânticas com tags como : <i> article, section, aside, header, e footer.</i> </p>
 
 ## Prós e Contras do HTML
 
