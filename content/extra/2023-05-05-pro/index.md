@@ -13,9 +13,10 @@ imagem: gurias.png
 publishDate: '2024-01-15T00:00:00Z'
 ---
 
-O curso de Ciência da Computação promoveu uma tarde de celebração nesta sexta-feira (05/05/2023) para marcar o final de mais uma edição do projeto de extensão Technovation For Girls 2023. As famílias das participantes foram até o Pavilhão Maker para assistir às apresentações dos trabalhos desenvolvidos ao longo dos últimos meses.
+<p align="justify">
+    O curso de Ciência da Computação promoveu uma tarde de celebração nesta sexta-feira (05/05/2023) para marcar o final de mais uma edição do projeto de extensão Technovation For Girls 2023. As famílias das participantes foram até o Pavilhão Maker para assistir às apresentações dos trabalhos desenvolvidos ao longo dos últimos meses. </p> 
 ----
-![Gurias](gurias.jpeg)
+<img src="gurias.jpeg" alt="Gurias">
 ----
 A iniciativa envolve professoras, alunas, crianças e adolescentes que utilizam os laboratórios da Unicap para criar aplicativos voltados para os objetivos de desenvolvimento sustentável estabelecidos pela Organização das Nações Unidas. Os melhores são selecionados para participar das etapas nacional e internacional do desafio Technovation Girls.
 
