@@ -7,7 +7,7 @@ tags:
   - pesquisa
 ---
 
-  ## O que é o LaTeX?
+## O que é o LaTeX?
 
 <p align="justify">
     LaTeX é um sistema de composição tipográfica de qualidade, que inclui recursos destinados à produção de documentos técnicos e científicos. </p>
@@ -27,20 +27,22 @@ tags:
 <p align="justify">
     Contudo, antes de pensar em desinstalar algum programa, um aviso: o LaTeX não é um processador de texto do tipo OpenOffice ou o Word do Office. </p>
 
-  ## Formatação LaTeX
+## Formatação LaTeX
   
 <p align="justify">
     Ao contrário dos sistemas WYSIWYG, o conceito do LaTeX é visualizar a apresentação do resultado final do texto apenas após a preparação do mesmo, evitando assim distrações quanto à forma durante a preparação do conteúdo. </p>
 
-  ## Usos e Vantagens
+## Usos e Vantagens
   
-  **Vantagens:**
-    - Algoritmo avançado do TeX para documentos profissionais.
-    - Ausência de bugs e foco no conteúdo.
-    - Leveza dos documentos e fácil exportação.
-    - Edição robusta de fórmulas matemáticas.
-    - Estruturas tipográficas complexas abstraídas para facilitar a geração consistente.
+**Vantagens:**
+
+- Algoritmo avançado do TeX para documentos profissionais.
+- Ausência de bugs e foco no conteúdo.
+- Leveza dos documentos e fácil exportação.
+- Edição robusta de fórmulas matemáticas.
+- Estruturas tipográficas complexas abstraídas para facilitar a geração consistente.
   
   **Usos:**
-    - Produção de relatórios, livros, artigos e apostilas.
-    - Amplamente utilizado em eventos científicos e por editoras.
+
+- Produção de relatórios, livros, artigos e apostilas.
+- Amplamente utilizado em eventos científicos e por editoras.
