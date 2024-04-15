@@ -1,5 +1,5 @@
 ---
-title: Projetos da Iniciação Cientifica e Pesquisa
+title: Projetos da Iniciação Científica e Pesquisa
 
 # Listing view
 view: compact

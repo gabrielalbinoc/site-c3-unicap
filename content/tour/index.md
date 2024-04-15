@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Bem vindo ao  site de ciencia da computaçãp
-        content: fique por dentro da novidades do curso
+      - title: 👋 Bem vindo ao  site de Ciência da Computação
+        content: Fique por dentro das novidades do curso
         align: center
         background:
           image:
@@ -19,8 +19,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: 💡 Projetos de extensao e Iniciaçao cientifica
-        content: 'aprenda com nossas postagem e fique por dentro dos eventos'
+      - title: 💡 Projetos de extensão e Iniciaçao Científica
+        content: 'Aprenda com nossas postagem e fique por dentro dos eventos'
         align: left
         background:
           image:
@@ -29,8 +29,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title:  😎 Veja mais sobre nosso curso
-        content: 'Começo das aulas na Segunda Semana de Fevereiro'
+      - title:  😎 Veja mais sobre o nosso curso
+        content: 'Início das aulas na Segunda Semana de Fevereiro'
         align: right
         background:
           image:

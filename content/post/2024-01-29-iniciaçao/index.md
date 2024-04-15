@@ -1,5 +1,5 @@
 ---
-title: Iniciação Cienfica
+title: Iniciação Científica
 date: 2024-01-20
 
 
@@ -47,6 +47,6 @@ tags:
     Lembrando que no final do ano ocorrem as apresentações dos projetos/pesquisas desenvolvidos pelos alunos que foram orientados pelos seus respectivos orientadores. Então, caso tenha interesse em saber como são, as apresentações são abertas ao público. </p>
 
 <p align="justify">
-    Além disso, <b> a época de submissão (envio do projeto para ser aceito) é feita em fevereiro-março e o início das atividades da pesquisa </b> se inicia em agosto. </p>
+    Além disso, a época de submissão (envio do projeto para ser aceito) é feita em fevereiro-março e o início das atividades da pesquisa se inicia em agosto. </p>
 <p align="justify">
     Então tenha em mente que, para entrar na iniciação científica, deve procurar saber os projetos de pesquisa e indicar que deseja participar ao orientador escolhido, além de entregar os dados/documentos necessários para participar. </p>

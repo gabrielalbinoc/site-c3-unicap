@@ -20,10 +20,10 @@ publishDate: "2023-10-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: " *Signal Processing: Image Communication *"
+publication: " *Signal Processing: Image Communication* "
 publication_short: ""
 
-abstract: In this paper, we introduce a novel scheme for encryption of medical images. The technique is based on the cosine number transform, a mathematical tool whose application requires modular arithmetic only. This property avoids rounding-off errors and allows that the image recovered after the encryption/decryption process be identical to the corresponding original image. The proposed scheme is flexible and can be applied to images complying with the DICOM standard, which is frequently employed in medical applications. We show that the technique is capable of resisting the main cryptographic attacks. HighlightsAn encryption scheme for medical images is introduced.The approach is based on the cosine number transform.Security aspects of the proposed scheme are analyzed.The method provides advantages related to accuracy and arithmetic complexity
+abstract: In this paper, we introduce a novel scheme for encryption of medical images. The technique is based on the cosine number transform, a mathematical tool whose application requires modular arithmetic only. This property avoids rounding-off errors and allows that the image recovered after the encryption/decryption process be identical to the corresponding original image. The proposed scheme is flexible and can be applied to images complying with the DICOM standard, which is frequently employed in medical applications. We show that the technique is capable of resisting the main cryptographic attacks. HighlightsAn encryption scheme for medical images is introduced.The approach is based on the cosine number transform.Security aspects of the proposed scheme are analyzed.The method provides advantages related to accuracy and arithmetic complexity.
 
 tags:
   - Source Themes
