@@ -1,5 +1,5 @@
 ---
-title: Noticias e Novidades
+title: Notícias e Novidades
 align: center
 
 # Listing view
