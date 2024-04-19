@@ -26,10 +26,13 @@ main:
   - name: Contato
     url: contact
     weight: 35
+  - name: Estágio
+    url: internship
+    weight: 40
 #os projetos de extensao devem muito provavelmente ficar juntos a iniciação cientifica momentaneamente
   - name : PIBIC
     url: projects
-    weight: 40
+    weight: 45
   - name : Extra
     url: extra
     weight: 55
