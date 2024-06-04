@@ -20,4 +20,4 @@ O estágio é uma atividade formativa que deve ser realizada com uma carga horá
 
 ## 5. O que é o Termo de Compromisso de Estágio (TCE)?
 
-O Termo de Compromisso de Estágio (TCE) é um acordo tripartite celebrado entre o estudante, a parte concedente do estágio e a instituição de ensino, prevendo as condições de adequação do estágio à proposta pedagógica do curso, à etapa e à modalidade da formação escolar do estudante, bem como ao horário e calendário escolar.
+O Termo de Compromisso de Estágio (TCE) é um acordo entre três partes entre o estudante, a parte concedente do estágio e a instituição de ensino, prevendo as condições de adequação do estágio à proposta pedagógica do curso, à etapa e à modalidade da formação escolar do estudante, bem como ao horário e calendário escolar.
